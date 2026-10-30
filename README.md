@@ -252,9 +252,9 @@ A suggested learning path: understand the basics, explore models, learn promptin
 - **[Claude Cowork](https://claude.com/product/cowork)**: Claude product for working on tasks across files and tools.
 - **[Claude in Chrome](https://claude.com/claude-in-chrome)**: Browser integration for Claude.
 - **[platform.claude.com](https://platform.claude.com/docs/en/agents-and-tools/tool-use/computer-use-tool)**: Official Claude developer documentation.
-- **[n8n.io](https://n8n.io/)**: Workflow automation tool or tutorial.
+
 - **[Make](http://make.com/)**: Visual automation platform connecting apps and workflows.
-- **[Zapier](https://zapier.com/)**: Connect services through event-triggered automations.
+
 - **[CrewAI](https://crewai.com/)**: Platform for building and running AI agent workflows.
 - **[Lindy](https://www.lindy.ai/)**: AI assistant and automation platform.
 - **[Relevance AI](https://relevanceai.com/)**: Platform for building AI agents and workflows.
@@ -311,6 +311,9 @@ A suggested learning path: understand the basics, explore models, learn promptin
 - **[Pipedream](https://pipedream.com/)**: API and event-driven automation.
 - **[Activepieces](https://www.activepieces.com/)**: Open-source workflow automation platform.
 - **[Node-RED](https://nodered.org/)**: Flow-based programming tool for event-driven automation.
+
+- **[n8n.io](https://n8n.io/)**: Workflow automation tool or tutorial.
+- **[Zapier](https://zapier.com/)**: Connect services through event-triggered automations.
 
 ## AI Coding & App Building
 

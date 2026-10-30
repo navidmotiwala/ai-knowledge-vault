@@ -182,7 +182,6 @@ A suggested learning path: understand the basics, explore models, learn promptin
 - **[Free LLM Playground](https://freellmplayground.com/)**: Third-party model playground; check privacy and access terms.
 - **[Langfuse Prompt Playground](https://langfuse.com/docs/prompt-management/features/playground)**: Test and iterate on prompts with tracing and evaluation tools.
 - **[PromptFoundry LLM Playground](https://www.promptfoundry.ai/llm-playground)**: Third-party interface for comparing prompts and outputs.
-
 - **[Google AI Studio](https://aistudio.google.com/)**: Try Gemini models and prototype prompts.
 - **[OpenAI Playground](https://platform.openai.com/playground)**: OpenAI API documentation or interactive tool.
 - **[Hugging Face Chat](https://huggingface.co/chat/)**: Model, tutorial or project page on Hugging Face.
@@ -210,7 +209,6 @@ A suggested learning path: understand the basics, explore models, learn promptin
 - **[LangChain](https://www.langchain.com/)**: Framework and tooling for LLM application development.
 - **[Function Calling Guide](https://www.promptingguide.ai/agents/function-calling)**: Explains how models request structured external tool calls.
 - **[IBM: RAG Explained](https://www.ibm.com/think/topics/retrieval-augmented-generation)**: Introduction to retrieval-augmented generation.
-
 - **[Google Cloud RAG Overview](https://cloud.google.com/use-cases/retrieval-augmented-generation)**: Introduction to retrieving external knowledge for model responses.
 - **[LlamaIndex Docs](https://docs.llamaindex.ai/)**: Guides for ingesting, indexing and querying documents.
 - **[LangChain RAG Tutorial](https://python.langchain.com/docs/tutorials/rag/)**: Tutorial for implementing document retrieval and question answering.
@@ -245,7 +243,6 @@ A suggested learning path: understand the basics, explore models, learn promptin
 - **[CrewAI](https://crewai.com/)**: Platform for building and running AI agent workflows.
 - **[Lindy](https://www.lindy.ai/)**: AI assistant and automation platform.
 - **[Relevance AI](https://relevanceai.com/)**: Platform for building AI agents and workflows.
-
 - **[Anthropic: Building Effective Agents](https://www.anthropic.com/research/building-effective-agents)**: Explains agent and workflow design patterns.
 - **[OpenAI Agents SDK](https://openai.github.io/openai-agents-python/)**: Python framework for building agents with tools, handoffs and tracing.
 - **[LangGraph](https://docs.langchain.com/oss/python/langgraph/overview)**: Documentation for LLM applications and agents.
@@ -272,7 +269,6 @@ A suggested learning path: understand the basics, explore models, learn promptin
 - **[IBM: Model Context Protocol](https://www.ibm.com/think/topics/model-context-protocol)**: Explains MCP and its role in connecting AI tools.
 - **[anthropic.com](https://www.anthropic.com/research/code-execution-with-mcp)**: Anthropic research or product documentation.
 - **[MCP vs A2A Comparison](https://dev.to/pockit_tools/mcp-vs-a2a-the-complete-guide-to-ai-agent-protocols-in-2026-30li)**: Community article comparing two agent integration protocols.
-
 - **[MCP Documentation](https://modelcontextprotocol.io/)**: Official introduction to the Model Context Protocol.
 - **[MCP Specification](https://modelcontextprotocol.io/specification)**: Technical definition of MCP messages and behavior.
 - **[MCP Servers](https://github.com/modelcontextprotocol/servers)**: Code repository; inspect its README, license and recent activity.
@@ -356,7 +352,6 @@ A suggested learning path: understand the basics, explore models, learn promptin
 - **[elevenlabs.io](https://elevenlabs.io/)**: AI voice and audio tools.
 - **[Suno](https://suno.com/)**: AI music generation service; review licensing.
 - **[Udio](https://www.udio.com/)**: AI music generation service; review licensing.
-
 - **[Hugging Face Diffusers](https://huggingface.co/docs/diffusers/)**: Model, tutorial or project page on Hugging Face.
 - **[ComfyUI](https://github.com/comfyanonymous/ComfyUI)**: Visual workflows for image generation.
 - **[Stable Diffusion](https://stability.ai/)**: Image-generation model family and ecosystem.
@@ -377,7 +372,6 @@ A suggested learning path: understand the basics, explore models, learn promptin
 - **[Hume AI](https://www.hume.ai/)**: Voice and conversational AI products.
 - **[Sesame](https://www.sesame.com/)**: Conversational voice AI products.
 - **[developers.openai.com](https://developers.openai.com/api/docs/guides/conversation-state?api-mode=responses)**: OpenAI developer documentation.
-
 - **[OpenAI Speech to Text](https://platform.openai.com/docs/guides/speech-to-text)**: OpenAI API documentation or interactive tool.
 - **[OpenAI Text to Speech](https://platform.openai.com/docs/guides/text-to-speech)**: OpenAI API documentation or interactive tool.
 - **[OpenAI Whisper](https://github.com/openai/whisper)**: Open-source speech recognition model and implementation.
@@ -422,7 +416,6 @@ A suggested learning path: understand the basics, explore models, learn promptin
 - **[High-Resolution Image Synthesis with Latent Diffusion Models](https://arxiv.org/abs/2112.10752)**: Introduces latent diffusion for image generation.
 - **[Research paper 2303.07909](https://arxiv.org/abs/2303.07909)**: Read the paper's abstract and methods to identify its subject.
 - **[Research paper 2302.05543](https://arxiv.org/abs/2302.05543)**: Read the paper's abstract and methods to identify its subject.
-
 - **[BERT](https://arxiv.org/abs/1810.04805)**: Research paper on bidirectional language pretraining.
 - **[Retrieval-Augmented Generation](https://arxiv.org/abs/2005.11401)**: Original paper on retrieval-backed text generation.
 - **[InstructGPT](https://arxiv.org/abs/2203.02155)**: Research on instruction following and human feedback.

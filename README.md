@@ -116,6 +116,8 @@ A suggested learning path: understand the basics, explore models, learn promptin
 - **[3Blue1Brown Neural Networks](https://www.3blue1brown.com/topics/neural-networks)**: Visual lessons on neural networks.
 - **[Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)**: Free online textbook explaining neural networks and backpropagation.
 
+## LLMs & Model Ecosystem
+
 ### Additional relevant resources
 
 - **[Claude Models Overview](https://platform.claude.com/docs/en/models/overview)**: Official reference for Claude model capabilities.
@@ -126,7 +128,6 @@ A suggested learning path: understand the basics, explore models, learn promptin
 - **[DeepSeek Model Page](https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro)**: Model information and availability on Hugging Face; check model card.
 - **[xAI](https://x.ai/)**: AI model developer and product information.
 
-## LLMs & Model Ecosystem
 
 **LLM:** A large language model that processes and generates language. Models differ in quality, speed, price, context length, supported tools and privacy terms.
 
@@ -148,12 +149,13 @@ A suggested learning path: understand the basics, explore models, learn promptin
 - **[vLLM](https://docs.vllm.ai/)**: Efficient LLM serving engine.
 - **[llama.cpp](https://github.com/ggml-org/llama.cpp)**: Code repository; inspect its README, license and recent activity.
 
+## Prompt Engineering
+
 ### Additional relevant resources
 
 - **[Claude Prompt Engineering Guide](https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/overview)**: Official guidance for designing prompts for Claude.
 - **[OpenAI Prompt Engineering Guide](https://developers.openai.com/api/docs/guides/prompt-engineering?api-mode=responses)**: Official prompt design guidance for developers.
 
-## Prompt Engineering
 
 **Prompt engineering** is writing instructions that clearly specify a task, context, constraints and output format.
 
@@ -170,6 +172,8 @@ A suggested learning path: understand the basics, explore models, learn promptin
 - **[OpenAI Cookbook](https://cookbook.openai.com/)**: Practical API examples.
 - **[Anthropic Interactive Prompt Tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial)**: Code repository; inspect its README, license and recent activity.
 
+## LLM Playgrounds & Evaluation
+
 ### Additional relevant resources
 
 - **[Arena Side-by-Side](https://arena.ai/text/side-by-side)**: Compare responses from different language models.
@@ -178,7 +182,6 @@ A suggested learning path: understand the basics, explore models, learn promptin
 - **[Artificial Analysis](https://artificialanalysis.ai/)**: Compare model performance, cost and speed.
 - **[Artificial Analysis](https://artificialanalysis.ai/)**: Compare model performance, cost and speed.
 
-## LLM Playgrounds & Evaluation
 
 **Playgrounds** let you try models and prompts. **Evaluation** tests whether outputs meet your requirements.
 
@@ -207,11 +210,12 @@ A suggested learning path: understand the basics, explore models, learn promptin
 - **[HELM](https://crfm.stanford.edu/helm/)**: Stanford framework for evaluating language models.
 - **[EleutherAI LM Evaluation Harness](https://github.com/EleutherAI/lm-evaluation-harness)**: Code repository; inspect its README, license and recent activity.
 
+## Retrieval-Augmented Generation (RAG)
+
 ### Additional relevant resources
 
 - **[Sentence Transformers](https://sbert.net/)**: Documentation for sentence embeddings and semantic similarity.
 
-## Retrieval-Augmented Generation (RAG)
 
 **RAG** retrieves relevant information from documents or databases and provides it to a model before answering.
 
@@ -237,6 +241,8 @@ A suggested learning path: understand the basics, explore models, learn promptin
 - **[Sentence Transformers](https://sbert.net/)**: Documentation for sentence embeddings and semantic similarity.
 - **[RAGAS Evaluation](https://docs.ragas.io/)**: Documentation for evaluating RAG systems.
 
+## AI Agents & Orchestration
+
 ### Additional relevant resources
 
 - **[Anthropic: Building Effective Agents](https://www.anthropic.com/research/building-effective-agents)**: Explains agent and workflow design patterns.
@@ -245,7 +251,6 @@ A suggested learning path: understand the basics, explore models, learn promptin
 - **[LangChain Documentation](https://docs.langchain.com/)**: Developer documentation for LLM apps and agents.
 - **[CrewAI GitHub Repository](https://github.com/crewAIInc/crewAI)**: Source code and examples for CrewAI agent workflows.
 
-## AI Agents & Orchestration
 
 **Agent:** A system that can decide which tools to call and what step to take next. **Workflow:** A more predictable sequence of predefined steps.
 
@@ -299,12 +304,13 @@ A suggested learning path: understand the basics, explore models, learn promptin
 - **[A2A GitHub](https://github.com/a2aproject/A2A)**: Code repository; inspect its README, license and recent activity.
 - **[Agentic AI Foundation](https://aaif.io/)**: Organization supporting open agent interoperability.
 
+## AI Automation & RPA
+
 ### Additional relevant resources
 
 - **[freeCodeCamp: n8n Automation Guide](https://www.freecodecamp.org/news/a-beginners-guide-to-automation-with-n8n)**: Beginner tutorial for creating automation workflows.
 - **[IBM: Robotic Process Automation](https://www.ibm.com/think/topics/rpa)**: Explains software bots that automate repetitive tasks.
 
-## AI Automation & RPA
 
 **Automation** runs tasks based on triggers and rules. **RPA** often interacts with user interfaces; API automation communicates directly with services.
 
@@ -322,11 +328,12 @@ A suggested learning path: understand the basics, explore models, learn promptin
 - **[Node-RED](https://nodered.org/)**: Flow-based programming tool for event-driven automation.
 - **[IBM: Robotic Process Automation](https://www.ibm.com/think/topics/rpa)**: Explains software bots that automate repetitive tasks.
 
+## AI Coding & App Building
+
 ### Additional relevant resources
 
 - **[Claude Code Workflows](https://code.claude.com/docs/en/workflows)**: Documentation for common Claude Code workflows.
 
-## AI Coding & App Building
 
 **AI-assisted coding** uses a model to write, explain, test or refactor code. **Vibe coding** describes building by iterating on natural-language instructions.
 
@@ -353,11 +360,12 @@ A suggested learning path: understand the basics, explore models, learn promptin
 - **[Gradio](https://www.gradio.app/)**: Build simple interfaces for AI demos.
 - **[Hugging Face Spaces](https://huggingface.co/spaces)**: Host and share interactive ML demos.
 
+## Multimodal AI: Images, Video & Audio
+
 ### Additional relevant resources
 
 - **[Stable Diffusion with Diffusers](https://huggingface.co/docs/diffusers/stable_diffusion)**: Documentation for generating images with Stable Diffusion.
 
-## Multimodal AI: Images, Video & Audio
 
 **Multimodal AI** can process or generate more than one media type, including images, video, audio and text.
 
@@ -407,11 +415,12 @@ A suggested learning path: understand the basics, explore models, learn promptin
 - **[Pipecat](https://github.com/pipecat-ai/pipecat)**: Framework for real-time voice agents.
 - **[LiveKit Agents](https://docs.livekit.io/agents/)**: Real-time voice agent infrastructure.
 
+## AI Safety, Security & Responsible AI
+
 ### Additional relevant resources
 
 - **[OWASP: Prompt Injection](https://genai.owasp.org/llm-top-10-2025/llm01-prompt-injection)**: Security guidance on malicious instructions targeting LLM systems.
 
-## AI Safety, Security & Responsible AI
 
 **Risks:** Hallucinations, prompt injection, sensitive-data leaks, bias, unsafe tool actions and misleading confidence.
 
@@ -461,11 +470,12 @@ A suggested learning path: understand the basics, explore models, learn promptin
 - **[Papers with Code](https://paperswithcode.com/)**: Find research papers and related code implementations.
 - **[arXiv AI](https://arxiv.org/list/cs.AI/recent)**: Browse recent AI research preprints; check peer-review status.
 
+## Courses and Tutorials
+
 ### Additional relevant resources
 
 - **[LangChain Academy](https://academy.langchain.com/)**: Courses on building LLM applications and agents.
 
-## Courses and Tutorials
 
 ## YouTube Videos and Playlists
 
@@ -595,12 +605,13 @@ Resources for understanding search systems, AI-powered discovery, and how to eva
 - **[Spotify Engineering](https://engineering.atspotify.com/)**: Technical case studies from Spotify.
 - **[Airbnb Engineering](https://medium.com/airbnb-engineering)**: Engineering articles from Airbnb.
 
+## Communities, News & Open-Source Collections
+
 ### Additional relevant resources
 
 - **[SemiAnalysis](https://semianalysis.com/)**: Research and analysis of AI models, chips and infrastructure.
 - **[Awesome LLM Collection](https://github.com/Hannibal046/Awesome-LLM)**: Curated collection of large language model resources.
 
-## Communities, News & Open-Source Collections
 
 **Use these for discovery**, not as final proof. Verify claims against original research, official documentation and project releases.
 

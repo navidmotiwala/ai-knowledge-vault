@@ -254,9 +254,9 @@ A suggested learning path: understand the basics, explore models, learn promptin
 - **[Relevance AI](https://relevanceai.com/)**: Platform for building AI agents and workflows.
 
 - **[Anthropic Building Effective Agents](https://www.anthropic.com/research/building-effective-agents)**: Anthropic research or product documentation.
-- **[OpenAI Agents SDK](https://openai.github.io/openai-agents-python/)**: Reference for ai agents & orchestration; consult the linked resource for its scope.
+- **[OpenAI Agents SDK](https://openai.github.io/openai-agents-python/)**: Python framework for building agents with tools, handoffs and tracing.
 - **[LangGraph](https://docs.langchain.com/oss/python/langgraph/overview)**: Documentation for LLM applications and agents.
-- **[CrewAI](https://docs.crewai.com/)**: Reference for ai agents & orchestration; consult the linked resource for its scope.
+- **[CrewAI](https://docs.crewai.com/)**: Documentation for coordinating multiple AI agents.
 - **[AutoGen](https://github.com/microsoft/autogen)**: Code repository; inspect its README, license and recent activity.
 - **[Microsoft Agent Framework](https://learn.microsoft.com/en-us/agent-framework/)**: Documentation for building and orchestrating agents.
 - **[Google Agent Development Kit](https://google.github.io/adk-docs/)**: Agent development toolkit and examples.
@@ -281,10 +281,10 @@ A suggested learning path: understand the basics, explore models, learn promptin
 - **[anthropic.com](https://www.anthropic.com/research/code-execution-with-mcp)**: Anthropic research or product documentation.
 - **[MCP vs A2A Comparison](https://dev.to/pockit_tools/mcp-vs-a2a-the-complete-guide-to-ai-agent-protocols-in-2026-30li)**: Community article comparing two agent integration protocols.
 
-- **[MCP Documentation](https://modelcontextprotocol.io/)**: Reference for mcp, a2a & agent protocols; consult the linked resource for its scope.
-- **[MCP Specification](https://modelcontextprotocol.io/specification)**: Reference for mcp, a2a & agent protocols; consult the linked resource for its scope.
+- **[MCP Documentation](https://modelcontextprotocol.io/)**: Official introduction to the Model Context Protocol.
+- **[MCP Specification](https://modelcontextprotocol.io/specification)**: Technical definition of MCP messages and behavior.
 - **[MCP Servers](https://github.com/modelcontextprotocol/servers)**: Code repository; inspect its README, license and recent activity.
-- **[Google A2A Protocol](https://a2a-protocol.org/)**: Reference for mcp, a2a & agent protocols; consult the linked resource for its scope.
+- **[Google A2A Protocol](https://a2a-protocol.org/)**: Specification for communication between independent AI agents.
 - **[A2A GitHub](https://github.com/a2aproject/A2A)**: Code repository; inspect its README, license and recent activity.
 - **[Agentic AI Foundation](https://aaif.io/)**: Organization supporting open agent interoperability.
 
@@ -302,8 +302,8 @@ A suggested learning path: understand the basics, explore models, learn promptin
 - **[Make](https://www.make.com/)**: Visual automation platform.
 - **[Zapier](https://zapier.com/)**: Connect services through event-triggered automations.
 - **[Pipedream](https://pipedream.com/)**: API and event-driven automation.
-- **[Activepieces](https://www.activepieces.com/)**: Reference for ai automation & rpa; consult the linked resource for its scope.
-- **[Node-RED](https://nodered.org/)**: Reference for ai automation & rpa; consult the linked resource for its scope.
+- **[Activepieces](https://www.activepieces.com/)**: Open-source workflow automation platform.
+- **[Node-RED](https://nodered.org/)**: Flow-based programming tool for event-driven automation.
 - **[IBM Introduction to RPA](https://www.ibm.com/think/topics/rpa)**: Introductory explanation of the linked AI concept.
 
 ## AI Coding & App Building
@@ -357,9 +357,9 @@ A suggested learning path: understand the basics, explore models, learn promptin
 
 - **[Hugging Face Diffusers](https://huggingface.co/docs/diffusers/)**: Model, tutorial or project page on Hugging Face.
 - **[ComfyUI](https://github.com/comfyanonymous/ComfyUI)**: Visual workflows for image generation.
-- **[Stable Diffusion](https://stability.ai/)**: Reference for multimodal ai: images, video & audio; consult the linked resource for its scope.
+- **[Stable Diffusion](https://stability.ai/)**: Image-generation model family and ecosystem.
 - **[Google DeepMind Models](https://deepmind.google/models/)**: Google DeepMind model or research information.
-- **[Adobe Firefly](https://firefly.adobe.com/)**: Reference for multimodal ai: images, video & audio; consult the linked resource for its scope.
+- **[Adobe Firefly](https://firefly.adobe.com/)**: Adobe's generative AI creative tools.
 
 ## Voice AI & Speech
 
@@ -417,8 +417,8 @@ A suggested learning path: understand the basics, explore models, learn promptin
 - **[arxiv.org](https://arxiv.org/abs/2402.07927)**: Research paper or preprint; check abstract and limitations.
 - **[LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685)**: Research paper or preprint; check abstract and limitations.
 - **[arxiv.org](https://arxiv.org/abs/2401.01313)**: Research paper or preprint; check abstract and limitations.
-- **[genai.owasp.org](https://genai.owasp.org/llm-top-10-2025/llm01-prompt-injection)**: Reference for research papers; consult the linked resource for its scope.
-- **[sbert.net](https://sbert.net/)**: Reference for research papers; consult the linked resource for its scope.
+- **[genai.owasp.org](https://genai.owasp.org/llm-top-10-2025/llm01-prompt-injection)**: OWASP guidance explaining prompt-injection attacks.
+- **[sbert.net](https://sbert.net/)**: Sentence Transformers documentation for embeddings and similarity search.
 - **[arxiv.org](https://arxiv.org/abs/2006.11239)**: Research paper or preprint; check abstract and limitations.
 - **[arxiv.org](https://arxiv.org/abs/2112.10752)**: Research paper or preprint; check abstract and limitations.
 - **[arxiv.org](https://arxiv.org/abs/2303.07909)**: Research paper or preprint; check abstract and limitations.
@@ -471,18 +471,18 @@ Resources for understanding search systems, AI-powered discovery, and how to eva
 
 - **[Google Search Central](https://developers.google.com/search/docs)**: Official Google crawling, indexing and search guidance.
 - **[Google AI Features and Your Website](https://developers.google.com/search/docs/appearance/ai-features)**: Google documentation for AI search features.
-- **[Google Search Quality Rater Guidelines](https://guidelines.raterhub.com/searchqualityevaluatorguidelines.pdf)**: Reference for ai for seo, aeo & geo; consult the linked resource for its scope.
-- **[Bing Webmaster Guidelines](https://www.bing.com/webmasters/help/webmaster-guidelines-30fba23a)**: Reference for ai for seo, aeo & geo; consult the linked resource for its scope.
-- **[Bing Webmaster Tools](https://www.bing.com/webmasters/)**: Reference for ai for seo, aeo & geo; consult the linked resource for its scope.
+- **[Google Search Quality Rater Guidelines](https://guidelines.raterhub.com/searchqualityevaluatorguidelines.pdf)**: Google's handbook for evaluating search-result quality.
+- **[Bing Webmaster Guidelines](https://www.bing.com/webmasters/help/webmaster-guidelines-30fba23a)**: Bing's recommendations for crawling, indexing and site quality.
+- **[Bing Webmaster Tools](https://www.bing.com/webmasters/)**: Inspect Bing search traffic and indexing issues.
 - **[Google Search Console](https://search.google.com/search-console/)**: Monitor Google Search clicks, impressions and indexing.
-- **[Google Analytics](https://analytics.google.com/)**: Reference for ai for seo, aeo & geo; consult the linked resource for its scope.
-- **[Google Search Status Dashboard](https://status.search.google.com/)**: Reference for ai for seo, aeo & geo; consult the linked resource for its scope.
+- **[Google Analytics](https://analytics.google.com/)**: Measure website traffic, engagement and conversions.
+- **[Google Search Status Dashboard](https://status.search.google.com/)**: Official updates about Google Search incidents.
 - **[Schema.org](https://schema.org/)**: Vocabulary for structured data.
 - **[Google Rich Results Test](https://search.google.com/test/rich-results)**: Test supported structured data.
 - **[OpenAI Crawlers](https://platform.openai.com/docs/bots)**: Documentation on OpenAI web crawlers.
-- **[Common Crawl](https://commoncrawl.org/)**: Reference for ai for seo, aeo & geo; consult the linked resource for its scope.
-- **[Google Research](https://research.google/)**: Reference for ai for seo, aeo & geo; consult the linked resource for its scope.
-- **[Microsoft Research](https://www.microsoft.com/en-us/research/)**: Reference for ai for seo, aeo & geo; consult the linked resource for its scope.
+- **[Common Crawl](https://commoncrawl.org/)**: Open web-crawl datasets for research.
+- **[Google Research](https://research.google/)**: Google's research publications and projects.
+- **[Microsoft Research](https://www.microsoft.com/en-us/research/)**: Microsoft's research publications and projects.
 - **[GEO Research Paper](https://arxiv.org/abs/2311.09735)**: Research on generative engine optimization.
 - **[Information Retrieval (Stanford)](https://nlp.stanford.edu/IR-book/)**: Free textbook on search and retrieval.
 
@@ -498,10 +498,10 @@ Resources for understanding search systems, AI-powered discovery, and how to eva
 - **[Google DeepMind Blog](https://deepmind.google/discover/blog/)**: Google DeepMind model or research information.
 - **[OpenAI Research](https://openai.com/research/)**: OpenAI research or product information; check the publication date.
 - **[Anthropic Research](https://www.anthropic.com/research)**: Anthropic research or product documentation.
-- **[Netflix Tech Blog](https://netflixtechblog.com/)**: Reference for case studies & industry applications; consult the linked resource for its scope.
-- **[Uber Engineering](https://www.uber.com/blog/engineering/)**: Reference for case studies & industry applications; consult the linked resource for its scope.
-- **[Spotify Engineering](https://engineering.atspotify.com/)**: Reference for case studies & industry applications; consult the linked resource for its scope.
-- **[Airbnb Engineering](https://medium.com/airbnb-engineering)**: Reference for case studies & industry applications; consult the linked resource for its scope.
+- **[Netflix Tech Blog](https://netflixtechblog.com/)**: Engineering case studies from Netflix.
+- **[Uber Engineering](https://www.uber.com/blog/engineering/)**: Engineering and architecture articles from Uber.
+- **[Spotify Engineering](https://engineering.atspotify.com/)**: Technical case studies from Spotify.
+- **[Airbnb Engineering](https://medium.com/airbnb-engineering)**: Engineering articles from Airbnb.
 
 ## Communities, News & Open-Source Collections
 
@@ -514,10 +514,10 @@ Resources for understanding search systems, AI-powered discovery, and how to eva
 - **[Hugging Face Papers](https://huggingface.co/papers)**: Discover and discuss research papers.
 - **[Awesome LLM](https://github.com/Hannibal046/Awesome-LLM)**: Community-curated LLM resource collection.
 - **[Awesome Generative AI](https://github.com/steven2358/awesome-generative-ai)**: Code repository; inspect its README, license and recent activity.
-- **[r/MachineLearning](https://www.reddit.com/r/MachineLearning/)**: Reference for communities, news & open-source collections; consult the linked resource for its scope.
-- **[The Batch](https://www.deeplearning.ai/the-batch/)**: Reference for communities, news & open-source collections; consult the linked resource for its scope.
-- **[Import AI](https://importai.substack.com/)**: Reference for communities, news & open-source collections; consult the linked resource for its scope.
-- **[Latent Space](https://www.latent.space/)**: Reference for communities, news & open-source collections; consult the linked resource for its scope.
+- **[r/MachineLearning](https://www.reddit.com/r/MachineLearning/)**: Community discussion of machine-learning research.
+- **[The Batch](https://www.deeplearning.ai/the-batch/)**: AI research and industry newsletter.
+- **[Import AI](https://importai.substack.com/)**: Newsletter covering AI research and policy.
+- **[Latent Space](https://www.latent.space/)**: AI engineering articles and interviews.
 - **[SemiAnalysis](https://semianalysis.com/)**: Technical analysis of AI infrastructure and industry.
 
 ## Contributing

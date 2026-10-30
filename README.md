@@ -73,7 +73,6 @@ This repository is a **learning guide and resource directory**. Each topic begin
 
 **Practice:** Compare two models on the same five questions. Note accuracy, speed, evidence and mistakes.
 
-
 A suggested learning path: understand the basics, explore models, learn prompting, build RAG applications, then move into agents, evaluation, and deployment.
 
 - **[Google Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course)**: Free, practical lessons on machine learning concepts, models and evaluation.
@@ -91,7 +90,6 @@ A suggested learning path: understand the basics, explore models, learn promptin
 
 **Try:** Explore a tokenizer and a transformer visualizer, then explain attention in your own words. This section also includes some advanced tools and industry resources.
 
-
 - **[Financial Times: Generative AI Explainer](https://ig.ft.com/generative-ai/)**: Illustrated explanation of generative AI and its development.
 - **[The Rise of Generative AI](https://informationisbeautiful.net/visualizations/the-rise-of-generative-ai-large-language-models-llms-like-chatgpt/)**: Visual timeline of generative AI and large language models.
 - **[OpenAI Tokenizer](https://platform.openai.com/tokenizer)**: Explore how text is divided into tokens.
@@ -107,7 +105,6 @@ A suggested learning path: understand the basics, explore models, learn promptin
 
 **Learn:** Classification, regression, train/test splits, loss, gradient descent, precision, recall and neural networks.
 
-
 - **[TensorFlow](https://www.tensorflow.org/)**: Deep-learning framework for training and deploying models.
 - **[PyTorch](https://pytorch.org/)**: Popular deep-learning framework.
 - **[Scikit-learn](https://scikit-learn.org/stable/)**: Python library for classical machine learning.
@@ -118,8 +115,6 @@ A suggested learning path: understand the basics, explore models, learn promptin
 
 ## LLMs & Model Ecosystem
 
-### Additional relevant resources
-
 - **[Claude Models Overview](https://platform.claude.com/docs/en/models/overview)**: Official reference for Claude model capabilities.
 - **[OpenAI Model Announcement](https://openai.com/index/introducing-gpt-5-5/)**: Official model release information; check the date and availability.
 - **[Google Gemini Model Announcement](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/)**: Google's model announcement; confirm version and date on the page.
@@ -128,13 +123,11 @@ A suggested learning path: understand the basics, explore models, learn promptin
 - **[DeepSeek Model Page](https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro)**: Model information and availability on Hugging Face; check model card.
 - **[xAI](https://x.ai/)**: AI model developer and product information.
 
-
 **LLM:** A large language model that processes and generates language. Models differ in quality, speed, price, context length, supported tools and privacy terms.
 
 **Hosted vs local:** Hosted models run through a provider; supported open-weight models can run on your own machine under their license.
 
 **Compare:** Use your own test questions and check factual accuracy, latency, cost, output format and tool support.
-
 
 - **[Hugging Face Models](https://huggingface.co/models)**: Explore model cards and licenses.
 - **[OpenAI Models](https://platform.openai.com/docs/models)**: Official model documentation.
@@ -151,18 +144,14 @@ A suggested learning path: understand the basics, explore models, learn promptin
 
 ## Prompt Engineering
 
-### Additional relevant resources
-
 - **[Claude Prompt Engineering Guide](https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/overview)**: Official guidance for designing prompts for Claude.
 - **[OpenAI Prompt Engineering Guide](https://developers.openai.com/api/docs/guides/prompt-engineering?api-mode=responses)**: Official prompt design guidance for developers.
-
 
 **Prompt engineering** is writing instructions that clearly specify a task, context, constraints and output format.
 
 **Example:** Instead of “summarize this,” say “Summarize these support tickets in five bullets, group repeated issues, show counts and say unknown where evidence is missing.”
 
 **Test:** Missing information, ambiguous requests, conflicting source text and long inputs. A good prompt reduces errors but cannot guarantee correctness.
-
 
 - **[OpenAI Prompting Guide](https://platform.openai.com/docs/guides/prompt-engineering)**: OpenAI API documentation or interactive tool.
 - **[Anthropic Prompt Engineering](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview)**: Official Anthropic documentation.
@@ -174,21 +163,17 @@ A suggested learning path: understand the basics, explore models, learn promptin
 
 ## LLM Playgrounds & Evaluation
 
-### Additional relevant resources
-
 - **[Arena Side-by-Side](https://arena.ai/text/side-by-side)**: Compare responses from different language models.
 - **[LLM Stats: Compare Models](https://llm-stats.com/models/compare)**: Compare published specifications of language models.
 - **[Google NotebookLM](https://notebook.google.com/)**: Ask questions about and summarize uploaded source material.
 - **[Artificial Analysis](https://artificialanalysis.ai/)**: Compare model performance, cost and speed.
 - **[Artificial Analysis](https://artificialanalysis.ai/)**: Compare model performance, cost and speed.
 
-
 **Playgrounds** let you try models and prompts. **Evaluation** tests whether outputs meet your requirements.
 
 **Metrics:** Task success, factual accuracy, citation correctness, structured-output validity, latency, cost and safety.
 
 **Example:** Test 50 support questions against a known answer key and compare model versions using the same questions.
-
 
 - **[LiteLLM Playground Tutorial](https://docs.litellm.ai/docs/tutorials/first_playground)**: Set up a playground to test models through LiteLLM.
 - **[huggingface.co](https://huggingface.co/playground)**: Model, tutorial or project page on Hugging Face.
@@ -212,17 +197,13 @@ A suggested learning path: understand the basics, explore models, learn promptin
 
 ## Retrieval-Augmented Generation (RAG)
 
-### Additional relevant resources
-
 - **[Sentence Transformers](https://sbert.net/)**: Documentation for sentence embeddings and semantic similarity.
-
 
 **RAG** retrieves relevant information from documents or databases and provides it to a model before answering.
 
 **Typical process:** Load documents → split into chunks → create embeddings → index → retrieve relevant passages → generate an answer → verify citations.
 
 **Example:** A helpdesk assistant answers from current product manuals. Common failures include missing source material, weak retrieval and unsupported answers. RAG does not retrain the underlying model.
-
 
 - **[Pinecone](https://www.pinecone.io/)**: Managed vector database for semantic retrieval.
 - **[LlamaIndex](https://www.llamaindex.ai/)**: Tools for connecting external data to LLM applications.
@@ -243,21 +224,17 @@ A suggested learning path: understand the basics, explore models, learn promptin
 
 ## AI Agents & Orchestration
 
-### Additional relevant resources
-
 - **[Anthropic: Building Effective Agents](https://www.anthropic.com/research/building-effective-agents)**: Explains agent and workflow design patterns.
 - **[IBM: Multi-Agent Systems](https://www.ibm.com/think/topics/multiagent-system)**: Explains how multiple AI agents coordinate on tasks.
 - **[IBM: AI Agent Orchestration](https://www.ibm.com/think/topics/ai-agent-orchestration)**: Explains how AI agents and tools are coordinated.
 - **[LangChain Documentation](https://docs.langchain.com/)**: Developer documentation for LLM apps and agents.
 - **[CrewAI GitHub Repository](https://github.com/crewAIInc/crewAI)**: Source code and examples for CrewAI agent workflows.
 
-
 **Agent:** A system that can decide which tools to call and what step to take next. **Workflow:** A more predictable sequence of predefined steps.
 
 **Example:** A research assistant searches approved sources, compares findings and drafts a report. Require human approval before publishing or sending anything.
 
 **Check:** Completion rate, unnecessary tool calls, loops, security, cost and recovery from failures.
-
 
 - **[Claude Cowork](https://claude.com/product/cowork)**: Claude product for working on tasks across files and tools.
 - **[Claude in Chrome](https://claude.com/claude-in-chrome)**: Browser integration for Claude.
@@ -287,7 +264,6 @@ A suggested learning path: understand the basics, explore models, learn promptin
 
 **Security:** Verify connectors, limit permissions and treat retrieved content as untrusted data.
 
-
 - **[MCP Getting Started](https://modelcontextprotocol.io/docs/2026-07-28/getting-started/intro)**: Introduction to connecting AI apps with tools and data.
 - **[platform.claude.com](https://platform.claude.com/docs/en/agents-and-tools/mcp-connector)**: Official Claude developer documentation.
 - **[Model Context Protocol GitHub](https://github.com/modelcontextprotocol)**: Official MCP organization and related repositories.
@@ -306,18 +282,14 @@ A suggested learning path: understand the basics, explore models, learn promptin
 
 ## AI Automation & RPA
 
-### Additional relevant resources
-
 - **[freeCodeCamp: n8n Automation Guide](https://www.freecodecamp.org/news/a-beginners-guide-to-automation-with-n8n)**: Beginner tutorial for creating automation workflows.
 - **[IBM: Robotic Process Automation](https://www.ibm.com/think/topics/rpa)**: Explains software bots that automate repetitive tasks.
-
 
 **Automation** runs tasks based on triggers and rules. **RPA** often interacts with user interfaces; API automation communicates directly with services.
 
 **Example:** Every Monday, collect analytics metrics, calculate weekly changes, draft a summary and send it for approval.
 
 **Build reliably:** Add retries, logging, error alerts, access controls and human review for important decisions.
-
 
 - **[n8n](https://n8n.io/)**: Build automation workflows with integrations.
 - **[n8n Templates](https://n8n.io/workflows/)**: Workflow automation tool or tutorial.
@@ -330,10 +302,7 @@ A suggested learning path: understand the basics, explore models, learn promptin
 
 ## AI Coding & App Building
 
-### Additional relevant resources
-
 - **[Claude Code Workflows](https://code.claude.com/docs/en/workflows)**: Documentation for common Claude Code workflows.
-
 
 **AI-assisted coding** uses a model to write, explain, test or refactor code. **Vibe coding** describes building by iterating on natural-language instructions.
 
@@ -341,6 +310,7 @@ A suggested learning path: understand the basics, explore models, learn promptin
 
 **Important:** Review generated code, protect API keys, inspect dependencies and test before deployment.
 
+### Coding tools and assistants
 
 - **[Cursor](https://cursor.com/)**: AI-assisted code editor.
 - **[Bolt](https://bolt.new/)**: Build and prototype web applications using prompts.
@@ -352,27 +322,28 @@ A suggested learning path: understand the basics, explore models, learn promptin
 - **[GitHub Copilot](https://github.com/features/copilot)**: AI coding assistant for suggesting, explaining and editing code.
 - **[OpenAI Codex](https://openai.com/codex/)**: AI coding assistant for software development tasks.
 
+### Open-source coding assistants
+
 - **[Aider](https://aider.chat/)**: AI pair-programming from the terminal.
 - **[Continue](https://www.continue.dev/)**: Open-source coding assistant.
 - **[Cline](https://github.com/cline/cline)**: AI coding agent extension.
 - **[OpenHands](https://github.com/All-Hands-AI/OpenHands)**: Open-source AI software development agents.
+
+### App interfaces and demos
+
 - **[Streamlit](https://streamlit.io/)**: Build Python web apps.
 - **[Gradio](https://www.gradio.app/)**: Build simple interfaces for AI demos.
 - **[Hugging Face Spaces](https://huggingface.co/spaces)**: Host and share interactive ML demos.
 
 ## Multimodal AI: Images, Video & Audio
 
-### Additional relevant resources
-
 - **[Stable Diffusion with Diffusers](https://huggingface.co/docs/diffusers/stable_diffusion)**: Documentation for generating images with Stable Diffusion.
-
 
 **Multimodal AI** can process or generate more than one media type, including images, video, audio and text.
 
 **Example workflow:** Storyboard → generate visuals → edit → narrate → caption → review.
 
 **Before publishing:** Check licensing, consent, accuracy and applicable disclosure requirements.
-
 
 - **[Midjourney Documentation](https://docs.midjourney.com/hc/en-us)**: Official instructions for image generation.
 - **[Kling AI](https://kling.ai/)**: AI video generation platform.
@@ -400,7 +371,6 @@ A suggested learning path: understand the basics, explore models, learn promptin
 
 **Evaluate:** Latency, transcription errors, interruptions, accents, privacy and handoff to a person.
 
-
 - **[elevenlabs.io](https://elevenlabs.io/conversational-ai)**: AI voice and audio tools.
 - **[Deepgram: Voice AI Explained](https://deepgram.com/learn/voice-ai-explained)**: Introduction to speech-based AI systems.
 - **[OpenAI Whisper](https://github.com/openai/whisper)**: Open-source speech recognition model and implementation.
@@ -417,17 +387,13 @@ A suggested learning path: understand the basics, explore models, learn promptin
 
 ## AI Safety, Security & Responsible AI
 
-### Additional relevant resources
-
 - **[OWASP: Prompt Injection](https://genai.owasp.org/llm-top-10-2025/llm01-prompt-injection)**: Security guidance on malicious instructions targeting LLM systems.
-
 
 **Risks:** Hallucinations, prompt injection, sensitive-data leaks, bias, unsafe tool actions and misleading confidence.
 
 **Example:** A webpage tells an assistant to ignore its instructions. That webpage is untrusted content, not an authorized command.
 
 **Controls:** Least-privilege permissions, output checks, redaction, audit logs, evaluations and human approval for consequential actions.
-
 
 - **[OWASP Top 10 for LLM Applications](https://genai.owasp.org/llm-top-10/)**: Common security risks for LLM applications.
 - **[NIST AI Risk Management Framework](https://www.nist.gov/itl/ai-risk-management-framework)**: Framework for managing AI risk.
@@ -445,7 +411,6 @@ A suggested learning path: understand the basics, explore models, learn promptin
 **How to read:** Abstract → problem → method → experiments → limitations → replication or code.
 
 **Suggested order:** Transformers, pretraining, instruction tuning, retrieval, tool use, fine-tuning and efficiency.
-
 
 - **[Attention Is All You Need](https://arxiv.org/abs/1706.03762)**: Introduces the Transformer architecture and attention mechanism.
 - **[Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/abs/2201.11903)**: Studies step-by-step reasoning demonstrations in prompts.
@@ -472,10 +437,7 @@ A suggested learning path: understand the basics, explore models, learn promptin
 
 ## Courses and Tutorials
 
-### Additional relevant resources
-
 - **[LangChain Academy](https://academy.langchain.com/)**: Courses on building LLM applications and agents.
-
 
 ## YouTube Videos and Playlists
 
@@ -540,15 +502,11 @@ These are the original video links, now grouped with descriptive titles and topi
 
 **Metadata note:** Some playlist course numbers and the precise title of the first long-form course were inferred from independent indexes. Please confirm them on YouTube if exact wording matters.
 
-
 For video lessons, start with the channels below. Individual video links with unidentified titles have been moved to a separate review file so this guide stays clear.
 
 **Choose your track:** Beginners can start with visual explanations; developers can learn Python, APIs, embeddings and evaluation; advanced learners can read research papers.
 
 **Practice:** After each course, write a short explanation and build a working example.
-
-
-
 
 - **[Andrej Karpathy YouTube](https://www.youtube.com/@AndrejKarpathy)**: Lessons on neural networks and building language models.
 - **[3Blue1Brown YouTube](https://www.youtube.com/@3blue1brown)**: Visual explanations of mathematics and neural networks.
@@ -567,7 +525,6 @@ For video lessons, start with the channels below. Individual video links with un
 **Practical audit:** Check crawl access, rendered content, headings, canonicals, structured data, clear answers and reliable sources.
 
 **Measure:** Search performance, identifiable AI referrals, citations and mentions on a defined prompt set, and conversions. AI citations cannot be guaranteed.
-
 
 Resources for understanding search systems, AI-powered discovery, and how to evaluate visibility in generated answers. Vendor claims should be independently tested.
 
@@ -596,7 +553,6 @@ Resources for understanding search systems, AI-powered discovery, and how to eva
 
 **Note:** Some links below are engineering blogs rather than specific AI case studies.
 
-
 - **[Google DeepMind Blog](https://deepmind.google/discover/blog/)**: Google DeepMind model or research information.
 - **[OpenAI Research](https://openai.com/research/)**: OpenAI research or product information; check the publication date.
 - **[Anthropic Research](https://www.anthropic.com/research)**: Anthropic research or product documentation.
@@ -607,16 +563,12 @@ Resources for understanding search systems, AI-powered discovery, and how to eva
 
 ## Communities, News & Open-Source Collections
 
-### Additional relevant resources
-
 - **[SemiAnalysis](https://semianalysis.com/)**: Research and analysis of AI models, chips and infrastructure.
 - **[Awesome LLM Collection](https://github.com/Hannibal046/Awesome-LLM)**: Curated collection of large language model resources.
-
 
 **Use these for discovery**, not as final proof. Verify claims against original research, official documentation and project releases.
 
 **Before adopting a tool:** Check the license, maintenance activity, security, compatibility and pricing.
-
 
 - **[Hugging Face Community](https://huggingface.co/)**: Model, tutorial or project page on Hugging Face.
 - **[Hugging Face Papers](https://huggingface.co/papers)**: Discover and discuss research papers.
@@ -632,9 +584,7 @@ Resources for understanding search systems, AI-powered discovery, and how to eva
 
 **For each suggestion:** Include its title, URL, topic, one-sentence explanation and whether it is free, paid or open source if known.
 
-
 Suggestions, corrections, and additional learning resources are welcome. Open an issue or pull request with the resource name, URL, category, and a short description. Avoid affiliate links, duplicates, and unverified model-version claims.
-
 
 ### Maintenance
 

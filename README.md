@@ -439,6 +439,70 @@ A suggested learning path: understand the basics, explore models, learn promptin
 
 ## Courses and Tutorials
 
+## YouTube Videos and Playlists
+
+These are the original video links, now grouped with descriptive titles and topics. Titles are based on external course indexes, university references or linked resources, rather than direct YouTube metadata. Availability and current playlist contents can change.
+
+### Artificial intelligence fundamentals
+
+- **[Harvard CS50: Artificial Intelligence with Python, Full Course](https://youtu.be/5NgNicANyqM)**: University course on search, knowledge, probability, learning and language, with Python examples.
+
+### Neural networks and transformers
+
+- **[Neural Networks](https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)**: 3Blue1Brown visual lessons on neural networks, gradient descent, backpropagation, transformers and attention.
+
+### Machine learning
+
+- **[Andrew Ng: Machine Learning Course Playlist](https://youtube.com/playlist?list=PLkDaE6sCZn6FNC6YRfRQc_FbeQrF8BwGI)**: Foundational machine-learning lectures and exercises; playlist edition may differ from current courses.
+
+### Deep learning foundations
+
+- **[MIT Deep Learning: Introduction and Overview](https://youtu.be/O5xeyoRL95U)**: Introductory MIT lecture on deep learning concepts and applications.
+
+### Training neural networks
+
+- **[Andrew Ng: Deep Learning Specialization, Course 2](https://youtube.com/playlist?list=PLkDaE6sCZn6Hn0vK8co82zjQtt3T2Nkqc)**: Improving deep neural networks through tuning, regularization and optimization.
+
+### Machine learning strategy
+
+- **[Andrew Ng: Deep Learning Specialization, Course 3](https://youtube.com/playlist?list=PLkDaE6sCZn6E7jZ9sN_xHwSHOdjUxUW_b)**: Diagnosing model errors and prioritizing improvements.
+
+### Convolutional neural networks
+
+- **[Andrew Ng: Deep Learning Specialization, Course 4](https://youtube.com/playlist?list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF)**: Computer vision with convolutional neural networks.
+
+### Computer vision
+
+- **[Stanford CS231n: Lecture 5, Convolutional Neural Networks](https://youtu.be/bNb2fEVKeEo)**: Stanford lecture explaining convolutional networks and their use in visual recognition.
+
+### Sequence models
+
+- **[Recurrent Neural Networks (RNNs), Clearly Explained](https://youtu.be/AsNTP8Kwu80)**: StatQuest introduction to recurrent networks, their structure and training challenges.
+- **[Long Short-Term Memory (LSTM), Clearly Explained](https://youtu.be/YCzL96nL7j0)**: StatQuest explanation of LSTM networks and why they help model longer sequences.
+
+### NLP and language models
+
+- **[Stanford CS224N: Natural Language Processing with Deep Learning](https://youtube.com/playlist?list=PLoROMvodv4rOaMFbaqxPDoLWjDaRAdP9D)**: University lecture series on neural approaches to natural-language processing.
+
+### PyTorch programming
+
+- **[PyTorch for Deep Learning and Machine Learning: Full Course](https://youtu.be/V_xro1bcAuA)**: Hands-on introduction to tensors, training neural networks and deep-learning workflows in PyTorch.
+
+### Generative AI and LLM development
+
+- **[Generative AI Full Course: Gemini, OpenAI, Llama, LangChain and Vector Databases](https://youtu.be/mEsleV16qdo)**: Long course covering model APIs, application frameworks and retrieval infrastructure.
+
+### Neural networks from scratch
+
+- **[Neural Networks: Zero to Hero](https://youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)**: Andrej Karpathy's coding-focused series on neural networks, language models and GPT-related building blocks.
+
+### Transformers and attention
+
+- **[Attention Is All You Need: Paper Explained](https://www.youtube.com/watch?v=iDulhoQ2pro)**: Yannic Kilcher's explanation of the original Transformer research paper.
+
+**Metadata note:** Some playlist course numbers and the precise title of the first long-form course were inferred from independent indexes. Please confirm them on YouTube if exact wording matters.
+
+
 For video lessons, start with the channels below. Individual video links with unidentified titles have been moved to a separate review file so this guide stays clear.
 
 **Choose your track:** Beginners can start with visual explanations; developers can learn Python, APIs, embeddings and evaluation; advanced learners can read research papers.

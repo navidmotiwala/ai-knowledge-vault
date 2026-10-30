@@ -94,33 +94,10 @@ A suggested learning path: understand the basics, explore models, learn promptin
 
 - **[Financial Times: Generative AI Explainer](https://ig.ft.com/generative-ai/)**: Illustrated explanation of generative AI and its development.
 - **[The Rise of Generative AI](https://informationisbeautiful.net/visualizations/the-rise-of-generative-ai-large-language-models-llms-like-chatgpt/)**: Visual timeline of generative AI and large language models.
-- **[platform.openai.com](https://platform.openai.com/tokenizer)**: OpenAI API documentation or interactive tool.
-- **[semianalysis.com](https://semianalysis.com/)**: Technical analysis of AI infrastructure and industry.
-- **[poloclub.github.io](https://poloclub.github.io/transformer-explainer/)**: Interactive transformer explainer.
-- **[bbycroft.net](https://bbycroft.net/llm)**: Interactive visualization of LLM architecture.
-- **[playground.tensorflow.org](https://playground.tensorflow.org/)**: Interactive neural network visualizer.
-- **[arena.ai](https://arena.ai/text/side-by-side)**: Compare model outputs and evaluations.
-- **[LLM Stats: Compare Models](https://llm-stats.com/models/compare)**: Compare published specifications of language models.
-- **[platform.claude.com](https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/overview)**: Official Claude developer documentation.
-- **[platform.claude.com](https://platform.claude.com/docs/en/models/overview)**: Official Claude developer documentation.
-- **[openai.com](https://openai.com/index/introducing-gpt-5-5/)**: OpenAI research or product information; check the publication date.
-- **[developers.openai.com](https://developers.openai.com/api/docs/guides/prompt-engineering?api-mode=responses)**: OpenAI developer documentation.
-- **[Google Gemini Model Announcement](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/)**: Google's model announcement; confirm version and date on the page.
-- **[notebook.google.com](https://notebook.google.com/)**: Explore and summarize provided source material.
-- **[ollama.com](https://ollama.com/)**: Run supported AI models locally.
-- **[lmstudio.ai](https://lmstudio.ai/)**: Run and test language models on your computer.
-- **[artificialanalysis.ai](https://artificialanalysis.ai/)**: Model benchmark and performance comparisons.
-- **[huggingface.co](https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro)**: Model, tutorial or project page on Hugging Face.
-- **[Claude Code Workflows](https://code.claude.com/docs/en/workflows)**: Documentation for common Claude Code workflows.
-- **[anthropic.com](https://www.anthropic.com/research/building-effective-agents)**: Anthropic research or product documentation.
-- **[ibm.com](https://www.ibm.com/think/topics/multiagent-system)**: Introductory explanation of the linked AI concept.
-- **[ibm.com](https://www.ibm.com/think/topics/ai-agent-orchestration)**: Introductory explanation of the linked AI concept.
-- **[docs.langchain.com](https://docs.langchain.com/)**: Documentation for LLM applications and agents.
-- **[LangChain Academy](https://academy.langchain.com/)**: Courses on building LLM applications and agents.
-- **[github.com](https://github.com/crewAIInc/crewAI)**: Code repository; inspect its README, license and recent activity.
-- **[freeCodeCamp: n8n Automation Guide](https://www.freecodecamp.org/news/a-beginners-guide-to-automation-with-n8n)**: Beginner tutorial for creating automation workflows.
-- **[ibm.com](https://www.ibm.com/think/topics/rpa)**: Introductory explanation of the linked AI concept.
-- **[github.com](https://github.com/Hannibal046/Awesome-LLM)**: Code repository; inspect its README, license and recent activity.
+- **[OpenAI Tokenizer](https://platform.openai.com/tokenizer)**: Explore how text is divided into tokens.
+- **[Transformer Explainer](https://poloclub.github.io/transformer-explainer/)**: Interactive walkthrough of the Transformer architecture.
+- **[LLM Visualization](https://bbycroft.net/llm)**: Interactive visualization of language-model components.
+- **[TensorFlow Playground](https://playground.tensorflow.org/)**: Experiment with a small neural network in your browser.
 
 ## Machine Learning & Deep Learning
 
@@ -139,6 +116,16 @@ A suggested learning path: understand the basics, explore models, learn promptin
 - **[3Blue1Brown Neural Networks](https://www.3blue1brown.com/topics/neural-networks)**: Visual lessons on neural networks.
 - **[Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)**: Free online textbook explaining neural networks and backpropagation.
 
+### Additional relevant resources
+
+- **[Claude Models Overview](https://platform.claude.com/docs/en/models/overview)**: Official reference for Claude model capabilities.
+- **[OpenAI Model Announcement](https://openai.com/index/introducing-gpt-5-5/)**: Official model release information; check the date and availability.
+- **[Google Gemini Model Announcement](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/)**: Google's model announcement; confirm version and date on the page.
+- **[Ollama](https://ollama.com/)**: Run supported language models on your own computer.
+- **[LM Studio](https://lmstudio.ai/)**: Run and test local language models in a desktop app.
+- **[DeepSeek Model Page](https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro)**: Model information and availability on Hugging Face; check model card.
+- **[xAI](https://x.ai/)**: AI model developer and product information.
+
 ## LLMs & Model Ecosystem
 
 **LLM:** A large language model that processes and generates language. Models differ in quality, speed, price, context length, supported tools and privacy terms.
@@ -156,11 +143,15 @@ A suggested learning path: understand the basics, explore models, learn promptin
 - **[Mistral AI](https://docs.mistral.ai/)**: Official model, API and deployment documentation.
 - **[DeepSeek](https://github.com/deepseek-ai)**: Code repository; inspect its README, license and recent activity.
 - **[Qwen](https://github.com/QwenLM)**: Code repository; inspect its README, license and recent activity.
-- **[Ollama](https://ollama.com/)**: Run supported models locally.
-- **[LM Studio](https://lmstudio.ai/)**: Desktop tool for local language models.
+- **[Ollama](https://ollama.com/)**: Run supported language models on your own computer.
+- **[LM Studio](https://lmstudio.ai/)**: Run and test local language models in a desktop app.
 - **[vLLM](https://docs.vllm.ai/)**: Efficient LLM serving engine.
 - **[llama.cpp](https://github.com/ggml-org/llama.cpp)**: Code repository; inspect its README, license and recent activity.
-- **[Artificial Analysis](https://artificialanalysis.ai/)**: Model benchmark and performance comparisons.
+
+### Additional relevant resources
+
+- **[Claude Prompt Engineering Guide](https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/overview)**: Official guidance for designing prompts for Claude.
+- **[OpenAI Prompt Engineering Guide](https://developers.openai.com/api/docs/guides/prompt-engineering?api-mode=responses)**: Official prompt design guidance for developers.
 
 ## Prompt Engineering
 
@@ -179,6 +170,14 @@ A suggested learning path: understand the basics, explore models, learn promptin
 - **[OpenAI Cookbook](https://cookbook.openai.com/)**: Practical API examples.
 - **[Anthropic Interactive Prompt Tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial)**: Code repository; inspect its README, license and recent activity.
 
+### Additional relevant resources
+
+- **[Arena Side-by-Side](https://arena.ai/text/side-by-side)**: Compare responses from different language models.
+- **[LLM Stats: Compare Models](https://llm-stats.com/models/compare)**: Compare published specifications of language models.
+- **[Google NotebookLM](https://notebook.google.com/)**: Ask questions about and summarize uploaded source material.
+- **[Artificial Analysis](https://artificialanalysis.ai/)**: Compare model performance, cost and speed.
+- **[Artificial Analysis](https://artificialanalysis.ai/)**: Compare model performance, cost and speed.
+
 ## LLM Playgrounds & Evaluation
 
 **Playgrounds** let you try models and prompts. **Evaluation** tests whether outputs meet your requirements.
@@ -190,7 +189,7 @@ A suggested learning path: understand the basics, explore models, learn promptin
 
 - **[LiteLLM Playground Tutorial](https://docs.litellm.ai/docs/tutorials/first_playground)**: Set up a playground to test models through LiteLLM.
 - **[huggingface.co](https://huggingface.co/playground)**: Model, tutorial or project page on Hugging Face.
-- **[github.com](https://github.com/nat/openplayground)**: Code repository; inspect its README, license and recent activity.
+- **[OpenPlayground](https://github.com/nat/openplayground)**: Open-source interface for experimenting with language models.
 - **[Retool LLM Playground](https://retool.com/utilities/largelanguagemodel-playground)**: Interactive interface for experimenting with language models.
 - **[Free LLM Playground](https://freellmplayground.com/)**: Third-party model playground; check privacy and access terms.
 - **[Langfuse Prompt Playground](https://langfuse.com/docs/prompt-management/features/playground)**: Test and iterate on prompts with tracing and evaluation tools.
@@ -208,6 +207,10 @@ A suggested learning path: understand the basics, explore models, learn promptin
 - **[HELM](https://crfm.stanford.edu/helm/)**: Stanford framework for evaluating language models.
 - **[EleutherAI LM Evaluation Harness](https://github.com/EleutherAI/lm-evaluation-harness)**: Code repository; inspect its README, license and recent activity.
 
+### Additional relevant resources
+
+- **[Sentence Transformers](https://sbert.net/)**: Documentation for sentence embeddings and semantic similarity.
+
 ## Retrieval-Augmented Generation (RAG)
 
 **RAG** retrieves relevant information from documents or databases and provides it to a model before answering.
@@ -221,7 +224,7 @@ A suggested learning path: understand the basics, explore models, learn promptin
 - **[LlamaIndex](https://www.llamaindex.ai/)**: Tools for connecting external data to LLM applications.
 - **[LangChain](https://www.langchain.com/)**: Framework and tooling for LLM application development.
 - **[Function Calling Guide](https://www.promptingguide.ai/agents/function-calling)**: Explains how models request structured external tool calls.
-- **[ibm.com](https://www.ibm.com/think/topics/retrieval-augmented-generation)**: Introductory explanation of the linked AI concept.
+- **[IBM: RAG Explained](https://www.ibm.com/think/topics/retrieval-augmented-generation)**: Introduction to retrieval-augmented generation.
 
 - **[Google Cloud RAG Overview](https://cloud.google.com/use-cases/retrieval-augmented-generation)**: Introduction to retrieving external knowledge for model responses.
 - **[LlamaIndex Docs](https://docs.llamaindex.ai/)**: Guides for ingesting, indexing and querying documents.
@@ -231,8 +234,16 @@ A suggested learning path: understand the basics, explore models, learn promptin
 - **[Qdrant](https://qdrant.tech/documentation/)**: Vector search database.
 - **[Milvus](https://milvus.io/docs)**: Open-source vector database.
 - **[FAISS](https://github.com/facebookresearch/faiss)**: Library for vector similarity search.
-- **[Sentence Transformers](https://sbert.net/)**: Create text embeddings for semantic search.
+- **[Sentence Transformers](https://sbert.net/)**: Documentation for sentence embeddings and semantic similarity.
 - **[RAGAS Evaluation](https://docs.ragas.io/)**: Documentation for evaluating RAG systems.
+
+### Additional relevant resources
+
+- **[Anthropic: Building Effective Agents](https://www.anthropic.com/research/building-effective-agents)**: Explains agent and workflow design patterns.
+- **[IBM: Multi-Agent Systems](https://www.ibm.com/think/topics/multiagent-system)**: Explains how multiple AI agents coordinate on tasks.
+- **[IBM: AI Agent Orchestration](https://www.ibm.com/think/topics/ai-agent-orchestration)**: Explains how AI agents and tools are coordinated.
+- **[LangChain Documentation](https://docs.langchain.com/)**: Developer documentation for LLM apps and agents.
+- **[CrewAI GitHub Repository](https://github.com/crewAIInc/crewAI)**: Source code and examples for CrewAI agent workflows.
 
 ## AI Agents & Orchestration
 
@@ -253,7 +264,7 @@ A suggested learning path: understand the basics, explore models, learn promptin
 - **[Lindy](https://www.lindy.ai/)**: AI assistant and automation platform.
 - **[Relevance AI](https://relevanceai.com/)**: Platform for building AI agents and workflows.
 
-- **[Anthropic Building Effective Agents](https://www.anthropic.com/research/building-effective-agents)**: Anthropic research or product documentation.
+- **[Anthropic: Building Effective Agents](https://www.anthropic.com/research/building-effective-agents)**: Explains agent and workflow design patterns.
 - **[OpenAI Agents SDK](https://openai.github.io/openai-agents-python/)**: Python framework for building agents with tools, handoffs and tracing.
 - **[LangGraph](https://docs.langchain.com/oss/python/langgraph/overview)**: Documentation for LLM applications and agents.
 - **[CrewAI](https://docs.crewai.com/)**: Documentation for coordinating multiple AI agents.
@@ -274,10 +285,10 @@ A suggested learning path: understand the basics, explore models, learn promptin
 
 - **[MCP Getting Started](https://modelcontextprotocol.io/docs/2026-07-28/getting-started/intro)**: Introduction to connecting AI apps with tools and data.
 - **[platform.claude.com](https://platform.claude.com/docs/en/agents-and-tools/mcp-connector)**: Official Claude developer documentation.
-- **[github.com](https://github.com/modelcontextprotocol)**: Code repository; inspect its README, license and recent activity.
+- **[Model Context Protocol GitHub](https://github.com/modelcontextprotocol)**: Official MCP organization and related repositories.
 - **[Agentic AI Foundation](https://aaif.io/)**: Organization supporting open agent interoperability.
 - **[anthropic.com](https://www.anthropic.com/news/model-context-protocol)**: Anthropic research or product documentation.
-- **[ibm.com](https://www.ibm.com/think/topics/model-context-protocol)**: Introductory explanation of the linked AI concept.
+- **[IBM: Model Context Protocol](https://www.ibm.com/think/topics/model-context-protocol)**: Explains MCP and its role in connecting AI tools.
 - **[anthropic.com](https://www.anthropic.com/research/code-execution-with-mcp)**: Anthropic research or product documentation.
 - **[MCP vs A2A Comparison](https://dev.to/pockit_tools/mcp-vs-a2a-the-complete-guide-to-ai-agent-protocols-in-2026-30li)**: Community article comparing two agent integration protocols.
 
@@ -287,6 +298,11 @@ A suggested learning path: understand the basics, explore models, learn promptin
 - **[Google A2A Protocol](https://a2a-protocol.org/)**: Specification for communication between independent AI agents.
 - **[A2A GitHub](https://github.com/a2aproject/A2A)**: Code repository; inspect its README, license and recent activity.
 - **[Agentic AI Foundation](https://aaif.io/)**: Organization supporting open agent interoperability.
+
+### Additional relevant resources
+
+- **[freeCodeCamp: n8n Automation Guide](https://www.freecodecamp.org/news/a-beginners-guide-to-automation-with-n8n)**: Beginner tutorial for creating automation workflows.
+- **[IBM: Robotic Process Automation](https://www.ibm.com/think/topics/rpa)**: Explains software bots that automate repetitive tasks.
 
 ## AI Automation & RPA
 
@@ -304,7 +320,11 @@ A suggested learning path: understand the basics, explore models, learn promptin
 - **[Pipedream](https://pipedream.com/)**: API and event-driven automation.
 - **[Activepieces](https://www.activepieces.com/)**: Open-source workflow automation platform.
 - **[Node-RED](https://nodered.org/)**: Flow-based programming tool for event-driven automation.
-- **[IBM Introduction to RPA](https://www.ibm.com/think/topics/rpa)**: Introductory explanation of the linked AI concept.
+- **[IBM: Robotic Process Automation](https://www.ibm.com/think/topics/rpa)**: Explains software bots that automate repetitive tasks.
+
+### Additional relevant resources
+
+- **[Claude Code Workflows](https://code.claude.com/docs/en/workflows)**: Documentation for common Claude Code workflows.
 
 ## AI Coding & App Building
 
@@ -322,17 +342,20 @@ A suggested learning path: understand the basics, explore models, learn promptin
 - **[v0](https://v0.app/)**: Generate web interfaces and components from prompts.
 - **[Devin Desktop](https://devin.ai/desktop)**: AI software development product.
 - **[Claude Code Documentation](https://code.claude.com/docs/en/overview)**: Getting started with Claude Code.
-- **[github.com](https://github.com/features/copilot)**: Code repository; inspect its README, license and recent activity.
-- **[xAI](https://x.ai/)**: AI company and model information; not a coding-specific tutorial.
-- **[openai.com](https://openai.com/codex/)**: OpenAI research or product information; check the publication date.
+- **[GitHub Copilot](https://github.com/features/copilot)**: AI coding assistant for suggesting, explaining and editing code.
+- **[OpenAI Codex](https://openai.com/codex/)**: AI coding assistant for software development tasks.
 
 - **[Aider](https://aider.chat/)**: AI pair-programming from the terminal.
 - **[Continue](https://www.continue.dev/)**: Open-source coding assistant.
 - **[Cline](https://github.com/cline/cline)**: AI coding agent extension.
-- **[OpenHands](https://github.com/All-Hands-AI/OpenHands)**: Code repository; inspect its README, license and recent activity.
+- **[OpenHands](https://github.com/All-Hands-AI/OpenHands)**: Open-source AI software development agents.
 - **[Streamlit](https://streamlit.io/)**: Build Python web apps.
 - **[Gradio](https://www.gradio.app/)**: Build simple interfaces for AI demos.
 - **[Hugging Face Spaces](https://huggingface.co/spaces)**: Host and share interactive ML demos.
+
+### Additional relevant resources
+
+- **[Stable Diffusion with Diffusers](https://huggingface.co/docs/diffusers/stable_diffusion)**: Documentation for generating images with Stable Diffusion.
 
 ## Multimodal AI: Images, Video & Audio
 
@@ -372,17 +395,21 @@ A suggested learning path: understand the basics, explore models, learn promptin
 
 - **[elevenlabs.io](https://elevenlabs.io/conversational-ai)**: AI voice and audio tools.
 - **[Deepgram: Voice AI Explained](https://deepgram.com/learn/voice-ai-explained)**: Introduction to speech-based AI systems.
-- **[github.com](https://github.com/openai/whisper)**: Code repository; inspect its README, license and recent activity.
+- **[OpenAI Whisper](https://github.com/openai/whisper)**: Open-source speech recognition model and implementation.
 - **[Hume AI](https://www.hume.ai/)**: Voice and conversational AI products.
 - **[Sesame](https://www.sesame.com/)**: Conversational voice AI products.
 - **[developers.openai.com](https://developers.openai.com/api/docs/guides/conversation-state?api-mode=responses)**: OpenAI developer documentation.
 
 - **[OpenAI Speech to Text](https://platform.openai.com/docs/guides/speech-to-text)**: OpenAI API documentation or interactive tool.
 - **[OpenAI Text to Speech](https://platform.openai.com/docs/guides/text-to-speech)**: OpenAI API documentation or interactive tool.
-- **[Whisper GitHub](https://github.com/openai/whisper)**: Speech-to-text model repository.
+- **[OpenAI Whisper](https://github.com/openai/whisper)**: Open-source speech recognition model and implementation.
 - **[Coqui TTS](https://github.com/coqui-ai/TTS)**: Code repository; inspect its README, license and recent activity.
 - **[Pipecat](https://github.com/pipecat-ai/pipecat)**: Framework for real-time voice agents.
 - **[LiveKit Agents](https://docs.livekit.io/agents/)**: Real-time voice agent infrastructure.
+
+### Additional relevant resources
+
+- **[OWASP: Prompt Injection](https://genai.owasp.org/llm-top-10-2025/llm01-prompt-injection)**: Security guidance on malicious instructions targeting LLM systems.
 
 ## AI Safety, Security & Responsible AI
 
@@ -411,19 +438,16 @@ A suggested learning path: understand the basics, explore models, learn promptin
 **Suggested order:** Transformers, pretraining, instruction tuning, retrieval, tool use, fine-tuning and efficiency.
 
 
-- **[arxiv.org](https://arxiv.org/abs/1706.03762)**: Research paper or preprint; check abstract and limitations.
-- **[arxiv.org](https://arxiv.org/abs/2201.11903)**: Research paper or preprint; check abstract and limitations.
-- **[arxiv.org](https://arxiv.org/abs/2005.14165)**: Research paper or preprint; check abstract and limitations.
-- **[arxiv.org](https://arxiv.org/abs/2402.07927)**: Research paper or preprint; check abstract and limitations.
+- **[Attention Is All You Need](https://arxiv.org/abs/1706.03762)**: Introduces the Transformer architecture and attention mechanism.
+- **[Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/abs/2201.11903)**: Studies step-by-step reasoning demonstrations in prompts.
+- **[Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165)**: Introduces GPT-3 and few-shot learning experiments.
+- **[Research paper 2402.07927](https://arxiv.org/abs/2402.07927)**: Read the paper's abstract and methods to identify its subject.
 - **[LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685)**: Research paper or preprint; check abstract and limitations.
-- **[arxiv.org](https://arxiv.org/abs/2401.01313)**: Research paper or preprint; check abstract and limitations.
-- **[genai.owasp.org](https://genai.owasp.org/llm-top-10-2025/llm01-prompt-injection)**: OWASP guidance explaining prompt-injection attacks.
-- **[sbert.net](https://sbert.net/)**: Sentence Transformers documentation for embeddings and similarity search.
-- **[arxiv.org](https://arxiv.org/abs/2006.11239)**: Research paper or preprint; check abstract and limitations.
-- **[arxiv.org](https://arxiv.org/abs/2112.10752)**: Research paper or preprint; check abstract and limitations.
-- **[arxiv.org](https://arxiv.org/abs/2303.07909)**: Research paper or preprint; check abstract and limitations.
-- **[arxiv.org](https://arxiv.org/abs/2302.05543)**: Research paper or preprint; check abstract and limitations.
-- **[huggingface.co](https://huggingface.co/docs/diffusers/stable_diffusion)**: Model, tutorial or project page on Hugging Face.
+- **[Research paper 2401.01313](https://arxiv.org/abs/2401.01313)**: Read the paper's abstract and methods to identify its subject.
+- **[Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2006.11239)**: Foundational research on diffusion-based generation.
+- **[High-Resolution Image Synthesis with Latent Diffusion Models](https://arxiv.org/abs/2112.10752)**: Introduces latent diffusion for image generation.
+- **[Research paper 2303.07909](https://arxiv.org/abs/2303.07909)**: Read the paper's abstract and methods to identify its subject.
+- **[Research paper 2302.05543](https://arxiv.org/abs/2302.05543)**: Read the paper's abstract and methods to identify its subject.
 
 - **[BERT](https://arxiv.org/abs/1810.04805)**: Research paper on bidirectional language pretraining.
 - **[Retrieval-Augmented Generation](https://arxiv.org/abs/2005.11401)**: Original paper on retrieval-backed text generation.
@@ -436,6 +460,10 @@ A suggested learning path: understand the basics, explore models, learn promptin
 - **[FlashAttention](https://arxiv.org/abs/2205.14135)**: Efficient attention computation.
 - **[Papers with Code](https://paperswithcode.com/)**: Find research papers and related code implementations.
 - **[arXiv AI](https://arxiv.org/list/cs.AI/recent)**: Browse recent AI research preprints; check peer-review status.
+
+### Additional relevant resources
+
+- **[LangChain Academy](https://academy.langchain.com/)**: Courses on building LLM applications and agents.
 
 ## Courses and Tutorials
 
@@ -512,9 +540,9 @@ For video lessons, start with the channels below. Individual video links with un
 
 
 
-- **[Andrej Karpathy](https://www.youtube.com/@AndrejKarpathy)**: Detailed explanations of neural networks and LLM implementation.
-- **[3Blue1Brown](https://www.youtube.com/@3blue1brown)**: Visual explanations of mathematics, neural networks and transformers.
-- **[StatQuest](https://www.youtube.com/@statquest)**: Beginner-friendly statistics and machine learning lessons.
+- **[Andrej Karpathy YouTube](https://www.youtube.com/@AndrejKarpathy)**: Lessons on neural networks and building language models.
+- **[3Blue1Brown YouTube](https://www.youtube.com/@3blue1brown)**: Visual explanations of mathematics and neural networks.
+- **[StatQuest YouTube](https://www.youtube.com/@statquest)**: Accessible lessons on statistics and machine learning.
 - **[fast.ai](https://course.fast.ai/)**: Hands-on deep-learning course with code examples.
 - **[CS50 AI](https://cs50.harvard.edu/ai/)**: Harvard course teaching AI methods with Python.
 - **[Hugging Face Learn](https://huggingface.co/learn)**: Model, tutorial or project page on Hugging Face.
@@ -567,6 +595,11 @@ Resources for understanding search systems, AI-powered discovery, and how to eva
 - **[Spotify Engineering](https://engineering.atspotify.com/)**: Technical case studies from Spotify.
 - **[Airbnb Engineering](https://medium.com/airbnb-engineering)**: Engineering articles from Airbnb.
 
+### Additional relevant resources
+
+- **[SemiAnalysis](https://semianalysis.com/)**: Research and analysis of AI models, chips and infrastructure.
+- **[Awesome LLM Collection](https://github.com/Hannibal046/Awesome-LLM)**: Curated collection of large language model resources.
+
 ## Communities, News & Open-Source Collections
 
 **Use these for discovery**, not as final proof. Verify claims against original research, official documentation and project releases.
@@ -576,13 +609,13 @@ Resources for understanding search systems, AI-powered discovery, and how to eva
 
 - **[Hugging Face Community](https://huggingface.co/)**: Model, tutorial or project page on Hugging Face.
 - **[Hugging Face Papers](https://huggingface.co/papers)**: Discover and discuss research papers.
-- **[Awesome LLM](https://github.com/Hannibal046/Awesome-LLM)**: Community-curated LLM resource collection.
+- **[Awesome LLM Collection](https://github.com/Hannibal046/Awesome-LLM)**: Curated collection of large language model resources.
 - **[Awesome Generative AI](https://github.com/steven2358/awesome-generative-ai)**: Code repository; inspect its README, license and recent activity.
 - **[r/MachineLearning](https://www.reddit.com/r/MachineLearning/)**: Community discussion of machine-learning research.
 - **[The Batch](https://www.deeplearning.ai/the-batch/)**: AI research and industry newsletter.
 - **[Import AI](https://importai.substack.com/)**: Newsletter covering AI research and policy.
 - **[Latent Space](https://www.latent.space/)**: AI engineering articles and interviews.
-- **[SemiAnalysis](https://semianalysis.com/)**: Technical analysis of AI infrastructure and industry.
+- **[SemiAnalysis](https://semianalysis.com/)**: Research and analysis of AI models, chips and infrastructure.
 
 ## Contributing
 

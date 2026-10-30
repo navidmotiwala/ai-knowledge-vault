@@ -479,69 +479,160 @@ A suggested learning path: understand the basics, explore models, learn promptin
 
 ## YouTube Videos and Playlists
 
-These are the original video links, now grouped with descriptive titles and topics. Titles are based on external course indexes, university references or linked resources, rather than direct YouTube metadata. Availability and current playlist contents can change.
+Video thumbnails are clickable and open YouTube. Playlists are linked directly because YouTube does not provide a reliable playlist thumbnail URL through standard GitHub Markdown.
 
 ### Artificial intelligence fundamentals
 
-- **[Harvard CS50: Artificial Intelligence with Python, Full Course](https://youtu.be/5NgNicANyqM)**: University course on search, knowledge, probability, learning and language, with Python examples.
+**Harvard CS50: Artificial Intelligence with Python, Full Course**
+
+[![Harvard CS50: Artificial Intelligence with Python, Full Course video thumbnail](https://img.youtube.com/vi/5NgNicANyqM/hqdefault.jpg)](https://youtu.be/5NgNicANyqM)
+
+University course on search, knowledge, probability, learning and language, with Python examples.
+
+[Watch on YouTube](https://youtu.be/5NgNicANyqM)
+
 
 ### Neural networks and transformers
 
-- **[Neural Networks](https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)**: 3Blue1Brown visual lessons on neural networks, gradient descent, backpropagation, transformers and attention.
+**Neural Networks (Playlist)**
+
+3Blue1Brown visual lessons on neural networks, gradient descent, backpropagation, transformers and attention.
+
+[Open the full playlist on YouTube](https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+
 
 ### Machine learning
 
-- **[Andrew Ng: Machine Learning Course Playlist](https://youtube.com/playlist?list=PLkDaE6sCZn6FNC6YRfRQc_FbeQrF8BwGI)**: Foundational machine-learning lectures and exercises; playlist edition may differ from current courses.
+**Andrew Ng: Machine Learning Course Playlist (Playlist)**
+
+Foundational machine-learning lectures and exercises; playlist edition may differ from current courses.
+
+[Open the full playlist on YouTube](https://youtube.com/playlist?list=PLkDaE6sCZn6FNC6YRfRQc_FbeQrF8BwGI)
+
 
 ### Deep learning foundations
 
-- **[MIT Deep Learning: Introduction and Overview](https://youtu.be/O5xeyoRL95U)**: Introductory MIT lecture on deep learning concepts and applications.
+**MIT Deep Learning: Introduction and Overview**
+
+[![MIT Deep Learning: Introduction and Overview video thumbnail](https://img.youtube.com/vi/O5xeyoRL95U/hqdefault.jpg)](https://youtu.be/O5xeyoRL95U)
+
+Introductory MIT lecture on deep learning concepts and applications.
+
+[Watch on YouTube](https://youtu.be/O5xeyoRL95U)
+
 
 ### Training neural networks
 
-- **[Andrew Ng: Deep Learning Specialization, Course 2](https://youtube.com/playlist?list=PLkDaE6sCZn6Hn0vK8co82zjQtt3T2Nkqc)**: Improving deep neural networks through tuning, regularization and optimization.
+**Andrew Ng: Deep Learning Specialization, Course 2 (Playlist)**
+
+Improving deep neural networks through tuning, regularization and optimization.
+
+[Open the full playlist on YouTube](https://youtube.com/playlist?list=PLkDaE6sCZn6Hn0vK8co82zjQtt3T2Nkqc)
+
 
 ### Machine learning strategy
 
-- **[Andrew Ng: Deep Learning Specialization, Course 3](https://youtube.com/playlist?list=PLkDaE6sCZn6E7jZ9sN_xHwSHOdjUxUW_b)**: Diagnosing model errors and prioritizing improvements.
+**Andrew Ng: Deep Learning Specialization, Course 3 (Playlist)**
+
+Diagnosing model errors and prioritizing improvements.
+
+[Open the full playlist on YouTube](https://youtube.com/playlist?list=PLkDaE6sCZn6E7jZ9sN_xHwSHOdjUxUW_b)
+
 
 ### Convolutional neural networks
 
-- **[Andrew Ng: Deep Learning Specialization, Course 4](https://youtube.com/playlist?list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF)**: Computer vision with convolutional neural networks.
+**Andrew Ng: Deep Learning Specialization, Course 4 (Playlist)**
+
+Computer vision with convolutional neural networks.
+
+[Open the full playlist on YouTube](https://youtube.com/playlist?list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF)
+
 
 ### Computer vision
 
-- **[Stanford CS231n: Lecture 5, Convolutional Neural Networks](https://youtu.be/bNb2fEVKeEo)**: Stanford lecture explaining convolutional networks and their use in visual recognition.
+**Stanford CS231n: Lecture 5, Convolutional Neural Networks**
+
+[![Stanford CS231n: Lecture 5, Convolutional Neural Networks video thumbnail](https://img.youtube.com/vi/bNb2fEVKeEo/hqdefault.jpg)](https://youtu.be/bNb2fEVKeEo)
+
+Stanford lecture explaining convolutional networks and their use in visual recognition.
+
+[Watch on YouTube](https://youtu.be/bNb2fEVKeEo)
+
 
 ### Sequence models
 
-- **[Recurrent Neural Networks (RNNs), Clearly Explained](https://youtu.be/AsNTP8Kwu80)**: StatQuest introduction to recurrent networks, their structure and training challenges.
-- **[Long Short-Term Memory (LSTM), Clearly Explained](https://youtu.be/YCzL96nL7j0)**: StatQuest explanation of LSTM networks and why they help model longer sequences.
+**Recurrent Neural Networks (RNNs), Clearly Explained**
+
+[![Recurrent Neural Networks (RNNs), Clearly Explained video thumbnail](https://img.youtube.com/vi/AsNTP8Kwu80/hqdefault.jpg)](https://youtu.be/AsNTP8Kwu80)
+
+StatQuest introduction to recurrent networks, their structure and training challenges.
+
+[Watch on YouTube](https://youtu.be/AsNTP8Kwu80)
+
+**Long Short-Term Memory (LSTM), Clearly Explained**
+
+[![Long Short-Term Memory (LSTM), Clearly Explained video thumbnail](https://img.youtube.com/vi/YCzL96nL7j0/hqdefault.jpg)](https://youtu.be/YCzL96nL7j0)
+
+StatQuest explanation of LSTM networks and why they help model longer sequences.
+
+[Watch on YouTube](https://youtu.be/YCzL96nL7j0)
+
 
 ### NLP and language models
 
-- **[Stanford CS224N: Natural Language Processing with Deep Learning](https://youtube.com/playlist?list=PLoROMvodv4rOaMFbaqxPDoLWjDaRAdP9D)**: University lecture series on neural approaches to natural-language processing.
+**Stanford CS224N: Natural Language Processing with Deep Learning (Playlist)**
+
+University lecture series on neural approaches to natural-language processing.
+
+[Open the full playlist on YouTube](https://youtube.com/playlist?list=PLoROMvodv4rOaMFbaqxPDoLWjDaRAdP9D)
+
 
 ### PyTorch programming
 
-- **[PyTorch for Deep Learning and Machine Learning: Full Course](https://youtu.be/V_xro1bcAuA)**: Hands-on introduction to tensors, training neural networks and deep-learning workflows in PyTorch.
+**PyTorch for Deep Learning and Machine Learning: Full Course**
+
+[![PyTorch for Deep Learning and Machine Learning: Full Course video thumbnail](https://img.youtube.com/vi/V_xro1bcAuA/hqdefault.jpg)](https://youtu.be/V_xro1bcAuA)
+
+Hands-on introduction to tensors, training neural networks and deep-learning workflows in PyTorch.
+
+[Watch on YouTube](https://youtu.be/V_xro1bcAuA)
+
 
 ### Generative AI and LLM development
 
-- **[Generative AI Full Course: Gemini, OpenAI, Llama, LangChain and Vector Databases](https://youtu.be/mEsleV16qdo)**: Long course covering model APIs, application frameworks and retrieval infrastructure.
+**Generative AI Full Course: Gemini, OpenAI, Llama, LangChain and Vector Databases**
+
+[![Generative AI Full Course: Gemini, OpenAI, Llama, LangChain and Vector Databases video thumbnail](https://img.youtube.com/vi/mEsleV16qdo/hqdefault.jpg)](https://youtu.be/mEsleV16qdo)
+
+Long course covering model APIs, application frameworks and retrieval infrastructure.
+
+[Watch on YouTube](https://youtu.be/mEsleV16qdo)
+
 
 ### Neural networks from scratch
 
-- **[Neural Networks: Zero to Hero](https://youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)**: Andrej Karpathy's coding-focused series on neural networks, language models and GPT-related building blocks.
+**Neural Networks: Zero to Hero (Playlist)**
+
+Andrej Karpathy's coding-focused series on neural networks, language models and GPT-related building blocks.
+
+[Open the full playlist on YouTube](https://youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
+
 
 ### Transformers and attention
 
-- **[Attention Is All You Need: Paper Explained](https://www.youtube.com/watch?v=iDulhoQ2pro)**: Yannic Kilcher's explanation of the original Transformer research paper.
+**Attention Is All You Need: Paper Explained**
+
+[![Attention Is All You Need: Paper Explained video thumbnail](https://img.youtube.com/vi/iDulhoQ2pro/hqdefault.jpg)](https://www.youtube.com/watch?v=iDulhoQ2pro)
+
+Yannic Kilcher's explanation of the original Transformer research paper.
+
+[Watch on YouTube](https://www.youtube.com/watch?v=iDulhoQ2pro)
+
 
 **Metadata note:** Some playlist course numbers and the precise title of the first long-form course were inferred from independent indexes. Please confirm them on YouTube if exact wording matters.
 
 
-For video lessons, start with the channels below. Individual video links with unidentified titles have been moved to a separate review file so this guide stays clear.
+For more lessons, explore the channels and courses below.
 
 **Choose your track:** Beginners can start with visual explanations; developers can learn Python, APIs, embeddings and evaluation; advanced learners can read research papers.
 

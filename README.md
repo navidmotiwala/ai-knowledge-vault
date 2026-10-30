@@ -118,6 +118,7 @@ A suggested learning path: understand the basics, explore models, learn promptin
 
 ## LLMs & Model Ecosystem
 
+### Additional relevant resources
 
 - **[Claude Models Overview](https://platform.claude.com/docs/en/models/overview)**: Official reference for Claude model capabilities.
 - **[OpenAI Model Announcement](https://openai.com/index/introducing-gpt-5-5/)**: Official model release information; check the date and availability.
@@ -143,11 +144,14 @@ A suggested learning path: understand the basics, explore models, learn promptin
 - **[Mistral AI](https://docs.mistral.ai/)**: Official model, API and deployment documentation.
 - **[DeepSeek](https://github.com/deepseek-ai)**: Code repository; inspect its README, license and recent activity.
 - **[Qwen](https://github.com/QwenLM)**: Code repository; inspect its README, license and recent activity.
+- **[Ollama](https://ollama.com/)**: Run supported language models on your own computer.
+- **[LM Studio](https://lmstudio.ai/)**: Run and test local language models in a desktop app.
 - **[vLLM](https://docs.vllm.ai/)**: Efficient LLM serving engine.
 - **[llama.cpp](https://github.com/ggml-org/llama.cpp)**: Code repository; inspect its README, license and recent activity.
 
 ## Prompt Engineering
 
+### Additional relevant resources
 
 - **[Claude Prompt Engineering Guide](https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/overview)**: Official guidance for designing prompts for Claude.
 - **[OpenAI Prompt Engineering Guide](https://developers.openai.com/api/docs/guides/prompt-engineering?api-mode=responses)**: Official prompt design guidance for developers.
@@ -170,10 +174,12 @@ A suggested learning path: understand the basics, explore models, learn promptin
 
 ## LLM Playgrounds & Evaluation
 
+### Additional relevant resources
 
 - **[Arena Side-by-Side](https://arena.ai/text/side-by-side)**: Compare responses from different language models.
 - **[LLM Stats: Compare Models](https://llm-stats.com/models/compare)**: Compare published specifications of language models.
 - **[Google NotebookLM](https://notebook.google.com/)**: Ask questions about and summarize uploaded source material.
+- **[Artificial Analysis](https://artificialanalysis.ai/)**: Compare model performance, cost and speed.
 - **[Artificial Analysis](https://artificialanalysis.ai/)**: Compare model performance, cost and speed.
 
 
@@ -206,6 +212,7 @@ A suggested learning path: understand the basics, explore models, learn promptin
 
 ## Retrieval-Augmented Generation (RAG)
 
+### Additional relevant resources
 
 - **[Sentence Transformers](https://sbert.net/)**: Documentation for sentence embeddings and semantic similarity.
 
@@ -231,9 +238,12 @@ A suggested learning path: understand the basics, explore models, learn promptin
 - **[Qdrant](https://qdrant.tech/documentation/)**: Vector search database.
 - **[Milvus](https://milvus.io/docs)**: Open-source vector database.
 - **[FAISS](https://github.com/facebookresearch/faiss)**: Library for vector similarity search.
+- **[Sentence Transformers](https://sbert.net/)**: Documentation for sentence embeddings and semantic similarity.
+- **[RAGAS Evaluation](https://docs.ragas.io/)**: Documentation for evaluating RAG systems.
 
 ## AI Agents & Orchestration
 
+### Additional relevant resources
 
 - **[Anthropic: Building Effective Agents](https://www.anthropic.com/research/building-effective-agents)**: Explains agent and workflow design patterns.
 - **[IBM: Multi-Agent Systems](https://www.ibm.com/think/topics/multiagent-system)**: Explains how multiple AI agents coordinate on tasks.
@@ -252,13 +262,14 @@ A suggested learning path: understand the basics, explore models, learn promptin
 - **[Claude Cowork](https://claude.com/product/cowork)**: Claude product for working on tasks across files and tools.
 - **[Claude in Chrome](https://claude.com/claude-in-chrome)**: Browser integration for Claude.
 - **[platform.claude.com](https://platform.claude.com/docs/en/agents-and-tools/tool-use/computer-use-tool)**: Official Claude developer documentation.
-
+- **[n8n.io](https://n8n.io/)**: Workflow automation tool or tutorial.
 - **[Make](http://make.com/)**: Visual automation platform connecting apps and workflows.
-
+- **[Zapier](https://zapier.com/)**: Connect services through event-triggered automations.
 - **[CrewAI](https://crewai.com/)**: Platform for building and running AI agent workflows.
 - **[Lindy](https://www.lindy.ai/)**: AI assistant and automation platform.
 - **[Relevance AI](https://relevanceai.com/)**: Platform for building AI agents and workflows.
 
+- **[Anthropic: Building Effective Agents](https://www.anthropic.com/research/building-effective-agents)**: Explains agent and workflow design patterns.
 - **[OpenAI Agents SDK](https://openai.github.io/openai-agents-python/)**: Python framework for building agents with tools, handoffs and tracing.
 - **[LangGraph](https://docs.langchain.com/oss/python/langgraph/overview)**: Documentation for LLM applications and agents.
 - **[CrewAI](https://docs.crewai.com/)**: Documentation for coordinating multiple AI agents.
@@ -291,9 +302,11 @@ A suggested learning path: understand the basics, explore models, learn promptin
 - **[MCP Servers](https://github.com/modelcontextprotocol/servers)**: Code repository; inspect its README, license and recent activity.
 - **[Google A2A Protocol](https://a2a-protocol.org/)**: Specification for communication between independent AI agents.
 - **[A2A GitHub](https://github.com/a2aproject/A2A)**: Code repository; inspect its README, license and recent activity.
+- **[Agentic AI Foundation](https://aaif.io/)**: Organization supporting open agent interoperability.
 
 ## AI Automation & RPA
 
+### Additional relevant resources
 
 - **[freeCodeCamp: n8n Automation Guide](https://www.freecodecamp.org/news/a-beginners-guide-to-automation-with-n8n)**: Beginner tutorial for creating automation workflows.
 - **[IBM: Robotic Process Automation](https://www.ibm.com/think/topics/rpa)**: Explains software bots that automate repetitive tasks.
@@ -306,17 +319,18 @@ A suggested learning path: understand the basics, explore models, learn promptin
 **Build reliably:** Add retries, logging, error alerts, access controls and human review for important decisions.
 
 
+- **[n8n](https://n8n.io/)**: Build automation workflows with integrations.
 - **[n8n Templates](https://n8n.io/workflows/)**: Workflow automation tool or tutorial.
 - **[Make](https://www.make.com/)**: Visual automation platform.
+- **[Zapier](https://zapier.com/)**: Connect services through event-triggered automations.
 - **[Pipedream](https://pipedream.com/)**: API and event-driven automation.
 - **[Activepieces](https://www.activepieces.com/)**: Open-source workflow automation platform.
 - **[Node-RED](https://nodered.org/)**: Flow-based programming tool for event-driven automation.
-
-- **[n8n.io](https://n8n.io/)**: Workflow automation tool or tutorial.
-- **[Zapier](https://zapier.com/)**: Connect services through event-triggered automations.
+- **[IBM: Robotic Process Automation](https://www.ibm.com/think/topics/rpa)**: Explains software bots that automate repetitive tasks.
 
 ## AI Coding & App Building
 
+### Additional relevant resources
 
 - **[Claude Code Workflows](https://code.claude.com/docs/en/workflows)**: Documentation for common Claude Code workflows.
 
@@ -348,6 +362,7 @@ A suggested learning path: understand the basics, explore models, learn promptin
 
 ## Multimodal AI: Images, Video & Audio
 
+### Additional relevant resources
 
 - **[Stable Diffusion with Diffusers](https://huggingface.co/docs/diffusers/stable_diffusion)**: Documentation for generating images with Stable Diffusion.
 
@@ -395,12 +410,14 @@ A suggested learning path: understand the basics, explore models, learn promptin
 
 - **[OpenAI Speech to Text](https://platform.openai.com/docs/guides/speech-to-text)**: OpenAI API documentation or interactive tool.
 - **[OpenAI Text to Speech](https://platform.openai.com/docs/guides/text-to-speech)**: OpenAI API documentation or interactive tool.
+- **[OpenAI Whisper](https://github.com/openai/whisper)**: Open-source speech recognition model and implementation.
 - **[Coqui TTS](https://github.com/coqui-ai/TTS)**: Code repository; inspect its README, license and recent activity.
 - **[Pipecat](https://github.com/pipecat-ai/pipecat)**: Framework for real-time voice agents.
 - **[LiveKit Agents](https://docs.livekit.io/agents/)**: Real-time voice agent infrastructure.
 
 ## AI Safety, Security & Responsible AI
 
+### Additional relevant resources
 
 - **[OWASP: Prompt Injection](https://genai.owasp.org/llm-top-10-2025/llm01-prompt-injection)**: Security guidance on malicious instructions targeting LLM systems.
 
@@ -455,166 +472,82 @@ A suggested learning path: understand the basics, explore models, learn promptin
 
 ## Courses and Tutorials
 
+### Additional relevant resources
 
 - **[LangChain Academy](https://academy.langchain.com/)**: Courses on building LLM applications and agents.
 
 
 ## YouTube Videos and Playlists
 
-Video thumbnails are clickable and open YouTube. Playlists are linked directly because YouTube does not provide a reliable playlist thumbnail URL through standard GitHub Markdown.
+These are the original video links, now grouped with descriptive titles and topics. Titles are based on external course indexes, university references or linked resources, rather than direct YouTube metadata. Availability and current playlist contents can change.
 
 ### Artificial intelligence fundamentals
 
-**Harvard CS50: Artificial Intelligence with Python, Full Course**
-
-[![Harvard CS50: Artificial Intelligence with Python, Full Course video thumbnail](https://img.youtube.com/vi/5NgNicANyqM/hqdefault.jpg)](https://youtu.be/5NgNicANyqM)
-
-University course on search, knowledge, probability, learning and language, with Python examples.
-
-[Watch on YouTube](https://youtu.be/5NgNicANyqM)
-
+- **[Harvard CS50: Artificial Intelligence with Python, Full Course](https://youtu.be/5NgNicANyqM)**: University course on search, knowledge, probability, learning and language, with Python examples.
 
 ### Neural networks and transformers
 
-**Neural Networks (Playlist)**
-
-3Blue1Brown visual lessons on neural networks, gradient descent, backpropagation, transformers and attention.
-
-[Open the full playlist on YouTube](https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
-
+- **[Neural Networks](https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)**: 3Blue1Brown visual lessons on neural networks, gradient descent, backpropagation, transformers and attention.
 
 ### Machine learning
 
-**Andrew Ng: Machine Learning Course Playlist (Playlist)**
-
-Foundational machine-learning lectures and exercises; playlist edition may differ from current courses.
-
-[Open the full playlist on YouTube](https://youtube.com/playlist?list=PLkDaE6sCZn6FNC6YRfRQc_FbeQrF8BwGI)
-
+- **[Andrew Ng: Machine Learning Course Playlist](https://youtube.com/playlist?list=PLkDaE6sCZn6FNC6YRfRQc_FbeQrF8BwGI)**: Foundational machine-learning lectures and exercises; playlist edition may differ from current courses.
 
 ### Deep learning foundations
 
-**MIT Deep Learning: Introduction and Overview**
-
-[![MIT Deep Learning: Introduction and Overview video thumbnail](https://img.youtube.com/vi/O5xeyoRL95U/hqdefault.jpg)](https://youtu.be/O5xeyoRL95U)
-
-Introductory MIT lecture on deep learning concepts and applications.
-
-[Watch on YouTube](https://youtu.be/O5xeyoRL95U)
-
+- **[MIT Deep Learning: Introduction and Overview](https://youtu.be/O5xeyoRL95U)**: Introductory MIT lecture on deep learning concepts and applications.
 
 ### Training neural networks
 
-**Andrew Ng: Deep Learning Specialization, Course 2 (Playlist)**
-
-Improving deep neural networks through tuning, regularization and optimization.
-
-[Open the full playlist on YouTube](https://youtube.com/playlist?list=PLkDaE6sCZn6Hn0vK8co82zjQtt3T2Nkqc)
-
+- **[Andrew Ng: Deep Learning Specialization, Course 2](https://youtube.com/playlist?list=PLkDaE6sCZn6Hn0vK8co82zjQtt3T2Nkqc)**: Improving deep neural networks through tuning, regularization and optimization.
 
 ### Machine learning strategy
 
-**Andrew Ng: Deep Learning Specialization, Course 3 (Playlist)**
-
-Diagnosing model errors and prioritizing improvements.
-
-[Open the full playlist on YouTube](https://youtube.com/playlist?list=PLkDaE6sCZn6E7jZ9sN_xHwSHOdjUxUW_b)
-
+- **[Andrew Ng: Deep Learning Specialization, Course 3](https://youtube.com/playlist?list=PLkDaE6sCZn6E7jZ9sN_xHwSHOdjUxUW_b)**: Diagnosing model errors and prioritizing improvements.
 
 ### Convolutional neural networks
 
-**Andrew Ng: Deep Learning Specialization, Course 4 (Playlist)**
-
-Computer vision with convolutional neural networks.
-
-[Open the full playlist on YouTube](https://youtube.com/playlist?list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF)
-
+- **[Andrew Ng: Deep Learning Specialization, Course 4](https://youtube.com/playlist?list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF)**: Computer vision with convolutional neural networks.
 
 ### Computer vision
 
-**Stanford CS231n: Lecture 5, Convolutional Neural Networks**
-
-[![Stanford CS231n: Lecture 5, Convolutional Neural Networks video thumbnail](https://img.youtube.com/vi/bNb2fEVKeEo/hqdefault.jpg)](https://youtu.be/bNb2fEVKeEo)
-
-Stanford lecture explaining convolutional networks and their use in visual recognition.
-
-[Watch on YouTube](https://youtu.be/bNb2fEVKeEo)
-
+- **[Stanford CS231n: Lecture 5, Convolutional Neural Networks](https://youtu.be/bNb2fEVKeEo)**: Stanford lecture explaining convolutional networks and their use in visual recognition.
 
 ### Sequence models
 
-**Recurrent Neural Networks (RNNs), Clearly Explained**
-
-[![Recurrent Neural Networks (RNNs), Clearly Explained video thumbnail](https://img.youtube.com/vi/AsNTP8Kwu80/hqdefault.jpg)](https://youtu.be/AsNTP8Kwu80)
-
-StatQuest introduction to recurrent networks, their structure and training challenges.
-
-[Watch on YouTube](https://youtu.be/AsNTP8Kwu80)
-
-**Long Short-Term Memory (LSTM), Clearly Explained**
-
-[![Long Short-Term Memory (LSTM), Clearly Explained video thumbnail](https://img.youtube.com/vi/YCzL96nL7j0/hqdefault.jpg)](https://youtu.be/YCzL96nL7j0)
-
-StatQuest explanation of LSTM networks and why they help model longer sequences.
-
-[Watch on YouTube](https://youtu.be/YCzL96nL7j0)
-
+- **[Recurrent Neural Networks (RNNs), Clearly Explained](https://youtu.be/AsNTP8Kwu80)**: StatQuest introduction to recurrent networks, their structure and training challenges.
+- **[Long Short-Term Memory (LSTM), Clearly Explained](https://youtu.be/YCzL96nL7j0)**: StatQuest explanation of LSTM networks and why they help model longer sequences.
 
 ### NLP and language models
 
-**Stanford CS224N: Natural Language Processing with Deep Learning (Playlist)**
-
-University lecture series on neural approaches to natural-language processing.
-
-[Open the full playlist on YouTube](https://youtube.com/playlist?list=PLoROMvodv4rOaMFbaqxPDoLWjDaRAdP9D)
-
+- **[Stanford CS224N: Natural Language Processing with Deep Learning](https://youtube.com/playlist?list=PLoROMvodv4rOaMFbaqxPDoLWjDaRAdP9D)**: University lecture series on neural approaches to natural-language processing.
 
 ### PyTorch programming
 
-**PyTorch for Deep Learning and Machine Learning: Full Course**
-
-[![PyTorch for Deep Learning and Machine Learning: Full Course video thumbnail](https://img.youtube.com/vi/V_xro1bcAuA/hqdefault.jpg)](https://youtu.be/V_xro1bcAuA)
-
-Hands-on introduction to tensors, training neural networks and deep-learning workflows in PyTorch.
-
-[Watch on YouTube](https://youtu.be/V_xro1bcAuA)
-
+- **[PyTorch for Deep Learning and Machine Learning: Full Course](https://youtu.be/V_xro1bcAuA)**: Hands-on introduction to tensors, training neural networks and deep-learning workflows in PyTorch.
 
 ### Generative AI and LLM development
 
-**Generative AI Full Course: Gemini, OpenAI, Llama, LangChain and Vector Databases**
-
-[![Generative AI Full Course: Gemini, OpenAI, Llama, LangChain and Vector Databases video thumbnail](https://img.youtube.com/vi/mEsleV16qdo/hqdefault.jpg)](https://youtu.be/mEsleV16qdo)
-
-Long course covering model APIs, application frameworks and retrieval infrastructure.
-
-[Watch on YouTube](https://youtu.be/mEsleV16qdo)
-
+- **[Generative AI Full Course: Gemini, OpenAI, Llama, LangChain and Vector Databases](https://youtu.be/mEsleV16qdo)**: Long course covering model APIs, application frameworks and retrieval infrastructure.
 
 ### Neural networks from scratch
 
-**Neural Networks: Zero to Hero (Playlist)**
-
-Andrej Karpathy's coding-focused series on neural networks, language models and GPT-related building blocks.
-
-[Open the full playlist on YouTube](https://youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
-
+- **[Neural Networks: Zero to Hero](https://youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)**: Andrej Karpathy's coding-focused series on neural networks, language models and GPT-related building blocks.
 
 ### Transformers and attention
 
-**Attention Is All You Need: Paper Explained**
+- **[Attention Is All You Need: Paper Explained](https://www.youtube.com/watch?v=iDulhoQ2pro)**: Yannic Kilcher's explanation of the original Transformer research paper.
 
-[![Attention Is All You Need: Paper Explained video thumbnail](https://img.youtube.com/vi/iDulhoQ2pro/hqdefault.jpg)](https://www.youtube.com/watch?v=iDulhoQ2pro)
-
-Yannic Kilcher's explanation of the original Transformer research paper.
-
-[Watch on YouTube](https://www.youtube.com/watch?v=iDulhoQ2pro)
+**Metadata note:** Some playlist course numbers and the precise title of the first long-form course were inferred from independent indexes. Please confirm them on YouTube if exact wording matters.
 
 
-**Note:** Some video and playlist titles still need direct verification on YouTube.
+For video lessons, start with the channels below. Individual video links with unidentified titles have been moved to a separate review file so this guide stays clear.
+
+**Choose your track:** Beginners can start with visual explanations; developers can learn Python, APIs, embeddings and evaluation; advanced learners can read research papers.
+
+**Practice:** After each course, write a short explanation and build a working example.
 
 
-**More learning resources:** Explore the channels and courses below.
 
 
 - **[Andrej Karpathy YouTube](https://www.youtube.com/@AndrejKarpathy)**: Lessons on neural networks and building language models.
@@ -674,6 +607,7 @@ Resources for understanding search systems, AI-powered discovery, and how to eva
 
 ## Communities, News & Open-Source Collections
 
+### Additional relevant resources
 
 - **[SemiAnalysis](https://semianalysis.com/)**: Research and analysis of AI models, chips and infrastructure.
 - **[Awesome LLM Collection](https://github.com/Hannibal046/Awesome-LLM)**: Curated collection of large language model resources.
@@ -686,11 +620,13 @@ Resources for understanding search systems, AI-powered discovery, and how to eva
 
 - **[Hugging Face Community](https://huggingface.co/)**: Model, tutorial or project page on Hugging Face.
 - **[Hugging Face Papers](https://huggingface.co/papers)**: Discover and discuss research papers.
+- **[Awesome LLM Collection](https://github.com/Hannibal046/Awesome-LLM)**: Curated collection of large language model resources.
 - **[Awesome Generative AI](https://github.com/steven2358/awesome-generative-ai)**: Code repository; inspect its README, license and recent activity.
 - **[r/MachineLearning](https://www.reddit.com/r/MachineLearning/)**: Community discussion of machine-learning research.
 - **[The Batch](https://www.deeplearning.ai/the-batch/)**: AI research and industry newsletter.
 - **[Import AI](https://importai.substack.com/)**: Newsletter covering AI research and policy.
 - **[Latent Space](https://www.latent.space/)**: AI engineering articles and interviews.
+- **[SemiAnalysis](https://semianalysis.com/)**: Research and analysis of AI models, chips and infrastructure.
 
 ## Contributing
 
